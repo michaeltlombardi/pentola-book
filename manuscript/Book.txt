@@ -1,3 +1,4 @@
 introduction.md
 00-layout.md
 01-core-mechanics.md
+02-character-creation.md

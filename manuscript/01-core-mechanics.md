@@ -1,10 +1,15 @@
-# Core Mechanics
+-# Core Mechanics
 
-## Resolving Actions
+In Pentola, there are a few things which make up the core mechanics:
+
+- Action Resolution: How you determine if a character succeeds or fails at something
+- The Usage Die: Determining whether or not resources are expended
+
+# Action Resolution
 
 In Pentola ambiguous actions are resolved by following the Intent-Approach-Adjudicate workflow:
 
-### Intent
+## Intent
 
 The player declares what their character is trying to accomplish - what outcome they want from the action or scene.
 
@@ -21,7 +26,7 @@ G> At this point, Chris has declared Porkslope's intent.
 
 {pagebreak}
 
-### Approach
+## Approach
 
 Once the intent is known, the player must explain their approach - how the character will attempt to realize their intent through action.
 
@@ -44,7 +49,7 @@ G> - Innumerable other options constrained only by Chris's ability to think up n
 
 {pagebreak}
 
-### Adjudicate
+## Adjudicate
 
 Once the intent and approach are known the referee is then - and only then - able to begin to adjudicate the action.
 
@@ -79,7 +84,7 @@ G>   Porkslope can't just try again over and over, there are meaningful conseque
 
 {pagebreak}
 
-### Tests
+## Tests
 
 If the referee decides that a test is called for, they will then specify the appropriate characteristic.
 The player should add their _highest_ relevant bonus to their goal.
@@ -125,7 +130,7 @@ If the result of the test is less than 1/10 the test's goal, it is a critical su
 
 If the result of the test is 100, it is a fumble - the _worst possible_ result based on the character's intentions.
 
-### Opposed Tests
+## Opposed Tests
 
 Opposed tests are made by both sides who are in direct competition with each other.
 Both characters make the tests as normal and the results depend on how well both sides do:
@@ -158,7 +163,7 @@ G>    Even though both character succeeded Caleb had a critical success and ther
 G> 4. Cerivny rolls a 91, failing, and Caleb rolls a 100, fumbling.
 G>    Even though both characters failed, Caleb actually fumbled and therefore Cerivny wins over the crowd.
 
-## Usage Die
+# Usage Die
 
 Some special abilities and items will specify that they have a usage die.
 
