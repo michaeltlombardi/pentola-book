@@ -1,2 +1,2 @@
-introduction.txt
-01-core-mechanics/
+introduction.md
+01-core-mechanics.md

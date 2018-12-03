@@ -19,6 +19,8 @@ G>
 G> At this point, Chris has declared Porkslope's intent.
 {{% /example %}}
 
+{pagebreak}
+
 ### Approach
 
 Once the intent is known, the player must explain their approach - how the character will attempt to realize their intent through action.
@@ -39,6 +41,8 @@ G> - Having Porkslope explain in great and boring detail the series of events th
 G> - Having Porkslope play it off as a dead-eyed service worker who just _really_ wants to get this over with.
 G> - Having Porkslope try to hand off his bucket and tools and get the guard to try to go out the window to clean the tower herself.
 G> - Innumerable other options constrained only by Chris's ability to think up new approaches.
+
+{pagebreak}
 
 ### Adjudicate
 
@@ -72,6 +76,8 @@ G>   There is no reasonable chance of success, so the referee announces that the
 G> - The referee decides that the guard's neither particularly knowledgeable nor lax in her duties, so Porkslope can try to convince her and this will require a test.
 G>   Note that in this example Porkslope could succeed, in which case he can continue, or could fail, in which case the guard's suspicions will be aroused.
 G>   Porkslope can't just try again over and over, there are meaningful consequences for each failure.
+
+{pagebreak}
 
 ### Tests
 
