@@ -13,6 +13,15 @@ G> Example text will be here.
 
 {pagebreak}
 
+### Rules Test Asides
+
+It will sometimes be necessary to make a note to the reader about the rules text to provide context or let them know where else to look in the book.
+These notes will always be rendered like this:
+
+A> #### Aside Title
+A>
+A> A summary of the reason for the aside and useful information for the reader.
+
 ### In-World Asides
 
 Occasionally, this book will include _in-world_ asides - by which we mean these are narrative pieces or information given from the perspective of a person in Pentola.
