@@ -1,10 +1,17 @@
-# Core Mechanics
+-# Core Mechanics
 
-## Resolving Actions
+In Pentola, there are a few things which make up the core mechanics:
+
+- Action Resolution: How you determine if a character succeeds or fails at something
+- The Usage Die: Determining whether or not resources are expended
+- Time: How time is mechanized
+- Distance: How distance is abstracted
+
+# Action Resolution
 
 In Pentola ambiguous actions are resolved by following the Intent-Approach-Adjudicate workflow:
 
-### Intent
+## Intent
 
 The player declares what their character is trying to accomplish - what outcome they want from the action or scene.
 
@@ -19,7 +26,9 @@ G>
 G> At this point, Chris has declared Porkslope's intent.
 {{% /example %}}
 
-### Approach
+{pagebreak}
+
+## Approach
 
 Once the intent is known, the player must explain their approach - how the character will attempt to realize their intent through action.
 
@@ -40,7 +49,9 @@ G> - Having Porkslope play it off as a dead-eyed service worker who just _really
 G> - Having Porkslope try to hand off his bucket and tools and get the guard to try to go out the window to clean the tower herself.
 G> - Innumerable other options constrained only by Chris's ability to think up new approaches.
 
-### Adjudicate
+{pagebreak}
+
+## Adjudicate
 
 Once the intent and approach are known the referee is then - and only then - able to begin to adjudicate the action.
 
@@ -73,7 +84,9 @@ G> - The referee decides that the guard's neither particularly knowledgeable nor
 G>   Note that in this example Porkslope could succeed, in which case he can continue, or could fail, in which case the guard's suspicions will be aroused.
 G>   Porkslope can't just try again over and over, there are meaningful consequences for each failure.
 
-### Tests
+{pagebreak}
+
+## Tests
 
 If the referee decides that a test is called for, they will then specify the appropriate characteristic.
 The player should add their _highest_ relevant bonus to their goal.
@@ -119,7 +132,7 @@ If the result of the test is less than 1/10 the test's goal, it is a critical su
 
 If the result of the test is 100, it is a fumble - the _worst possible_ result based on the character's intentions.
 
-### Opposed Tests
+## Opposed Tests
 
 Opposed tests are made by both sides who are in direct competition with each other.
 Both characters make the tests as normal and the results depend on how well both sides do:
@@ -152,7 +165,7 @@ G>    Even though both character succeeded Caleb had a critical success and ther
 G> 4. Cerivny rolls a 91, failing, and Caleb rolls a 100, fumbling.
 G>    Even though both characters failed, Caleb actually fumbled and therefore Cerivny wins over the crowd.
 
-## Usage Die
+# Usage Die
 
 Some special abilities and items will specify that they have a usage die.
 
@@ -171,3 +184,113 @@ G> Carina rolls the D8 which lands on a 1, meaning that one use from her herbal 
 G> The kit's usage die is reduced by one step to a D6, meaning the next time it is used Carina will roll that die instead.
 G>
 G> If instead Carina had rolled a 2 or higher the usage die would remain a D8.
+
+# Time
+
+While playing it's sometimes useful to break time down mechanically - during fights or tense moments, for example.
+Largely though, play passes at whatever speed makes sense for the adventure and action - minutes may pass, or hours, or weeks.
+
+When you need to mechanize time, it breaks down like this:
+
+- Action occurs every _moment_, which is roughly three seconds.
+  In a moment, a character can make one action and reaction without penalty.
+  If a character wants to perform two actions they may forego their reaction and vice versa.
+  A character may take an additional action or reaction without forgoing another, but all of their tests are one step harder as a result.
+  A character may also forego an action or reaction to focus on just the one thing, making the test one step easier.
+- Actions include, but are not limited to, the following:
+  - Exercising a knack
+  - Making an attack
+  - Moving
+  - Applying a dweomer
+  - Channeling a miracle
+  - Throwing a grappling hook
+  - Drinking a potion
+  - Using a matrix or scroll
+- Reactions include, but are not limited to, the following:
+  - Parrying
+  - Blocking
+  - Dodging
+  - Interfering with another action
+
+## Initiative
+
+In addition to time breaking down into moments you need to be able to determine what order actions and reactions happen.
+In Pentola we use the _declare up, adjudicate down_ (**DUAD**) system for initiative.
+
+Each character involved in the conflict first rolls against their intellect, adding a skill or vocational bonus if appropriate.
+The initiative test is treated like a multiple-participant opposed test.
+
+The participant whose result is _worst_ declare their actions and reactions first.
+The participant whose result is _next worst_ declares their actions and reactions next, and so on until the participant with the best result declares their action and any reaction.
+
+Then, in reverse order, the actions take effect - so the character who declared last acts first and the character who declared first acts last.
+
+Note that initiative doesn't always mean combat - you might break into initiative when chasing someone, or racing to an objective, or trying to provide a distraction, etc.
+
+{icon=dice-d20}
+G> #### Example Initiative: Two Combatants
+G>
+G> Toph and Tarasi are sparring.
+G> Toph has an INT of 13 (base test 39%) and a fencing skill bonus of 43% (total goal of 82%).
+G> Tarasi has an INT of 10 (base test 30%) and a gearslinger skill bonus of 20% (total goal of 50%).
+G>
+G> At the beginning of the moment both characters roll an initiative test and their results are compared:
+G>
+G> Tarasi rolls a 79, failing her test, and Toph rolls a 31, succeeding.
+G>
+G> Tarasi therefore declares her action first: she decides to kick at Toph.
+G> Toph declares next; since he knows Tarasi will kick at him, he declares he will use his reaction to dodge her kick and his action to elbow her in response.
+G>
+G> Toph is able to try to elbow Tarasi first.
+G> He succeeds on his test, inflicting damage.
+G> Tarasi attempts to kick Toph and succeeds on her test with a 21, but Toph also succeeds on his dodge (27) and his result is higher - therefore she does no damage.
+G>
+G> The next moment starts and they both roll for initiative again and repeat the cycle.
+G>
+G> #### Example Initiative: Three Combatants
+G>
+G> As in the last example, but there's now a third combatant, Galner (INT 10, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
+G> Toph's result is a 31 (success), Tarasi's a 79 (failure), and Galner's a 10 (success).
+G>
+G> Tarasi declares her action first, deciding to kick at Toph.
+G> Galner succeeded on his test but his result is lower than Toph's, so he declares next: he will tackle Toph.
+G> Toph declares last and this time decides to focus on Galner, dodging his tackle and elbowing him.
+G>
+G> Toph acts first, successfully elbowing Galner.
+G> Galner acts next, succeeding on his test to tackle Toph (rolling a 15), but Toph critically succeeds on his test (rolling a 2) and so avoids him.
+G> Tarasi acts next, succeeding on her test to kick Toph and inflicts damage.
+G>
+G> At the beginning of the next round they all test initiative again and repeat the cycle.
+
+{icon=wrench}
+G> ####
+G>
+G> The initiative mechanic is one which is harder and longer to explain than it is to use.
+G> In practice, it does a few things:
+G>
+G> - It keeps combat dynamic, ensuring each round the initiative order will likely change.
+G> - It rewards players for paying attention to what everyone in the combat is doing - you can only react to actions lower in the initiative order, or play off other actions.
+G> - It ratchets up tension - the unpredictability and potential for dangerous combinations of actions make for more lethal combat.
+G>
+G> It has a higher cognitive load on the referee and players than traditional or side-based initiative, but in practice it's manageable for fewer than a dozen combatants - which is where traditional initiative systems break down too.
+G>
+G> My method for tracking it is to record the results for each participant on a piece of paper or in a text document, putting lower results lower on the page than higher ones.
+G> I then mark each result with an **S** for success (if the participant succeeded on their roll), a **CS** for critical success, or an **F** for a failure.
+G> I then work my way up the document, starting with the lowest failure to the highest.
+G> Repeat for the successes and then the critical successes.
+G> I then flip the order and the actions are adjudicated as normal.
+G>
+G> If this is too complicated or fiddly for your table, pretty much any other initiative system can work here.
+G> I do encourage you to try it though, first!
+
+# Distance
+
+Distances in Pentola are abstracted to a few ranges:
+
+- Things and people are _close_ if you can reach out and touch them with no more than a few steps.
+- Things and people are _near_ if you can walk to them within a few seconds - within about 30 ft / 10 meters.
+- Things and people are _distant_ if they're further than nearby but still clearly perceptible - within about 150 ft / 50 meters.
+- Things and people are _far_ if they're further than distant but you can still visible.
+
+Characters can move somewhere near as an action in a moment.
+If they forego their reaction, they can instead sprint to somewhere distant.
