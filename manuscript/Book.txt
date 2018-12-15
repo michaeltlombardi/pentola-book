@@ -12,3 +12,7 @@ introduction.md
 02-character-creation/h-crafting.md
 02-character-creation/i-wealth-and-equipment.md
 02-character-creation/j-improvement-points.md
+03-craft.md
+03-craft/a-dweomers.md
+03-craft/b-alchemy.md
+03-craft/c-art.md
