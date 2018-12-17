@@ -16,3 +16,6 @@ introduction.md
 03-craft/a-dweomers.md
 03-craft/b-alchemy.md
 03-craft/c-art.md
+04-supplication.md
+04-supplication/a-ranks.md
+04-supplication/b-miracles.md
