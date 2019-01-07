@@ -21,4 +21,4 @@ They also learn the dweomer for _message_ as a way to communicate in the city; a
 
 These two dweomers may be automatically applied at magnitude 1 as a ritual without any test.
 
-For more information on dweomers and the Craft, see CHX: The Craft.
+For more information on dweomers and the Craft, see Chapter IV: The Craft.

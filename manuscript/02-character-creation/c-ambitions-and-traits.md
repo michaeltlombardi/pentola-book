@@ -41,7 +41,7 @@ G> Note that characters accrue IP for working to fulfill their ambitions, not on
 |  07  | Blunt         | Broad Nose        | Aquascaping       | Being Buried Alive             | Become a Grantor
 |  08  | Brutal        | Broad-Shouldered  | Archery           | Being Contagious               | Become a Patron
 |  09  | Calm          | Bulbous Nose      | Architecture      | Being Dirty                    | Become a Principal
-|  10  | Cantakerous   | Bulging Eyes      | Astronomy         | Being Eaten                    | Become a Supplicant
+|  10  | Cantankerous  | Bulging Eyes      | Astronomy         | Being Eaten                    | Become a Supplicant
 |  11  | Careless      | Bulky             | Baking            | Being Forgotton                | Become an Archmage
 |  12  | Casual        | Burly             | Bird watching     | Being Rained On                | Become an Ironbinder
 |  13  | Cautious      | Button Nose       | Book collecting   | Being Stared At                | Become Center of a Hero Cult

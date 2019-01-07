@@ -19,7 +19,7 @@ G> Relationships are intended to provide the referee - and the players - with ho
 G> An Ally should provide information or jobs, a dependent should get into trouble frequently, an enemy should try to inconvenience or harm the character and thwart their goals, and organizations should actively generate problems and opportunities alike.
 G>
 G> Interacting with established relationships is one of the primary means by which characters gain improvement points, so keep that in mind.
-G> Not every interaction with a 
+G> Not every interaction with a relationship will generate a chance for IP, but lots of them should.
 
 On a critical success for a relationship test, the character gains a very positive response, and an increase of 1D6% to their relationship.
 On a fumble the character damages their relationship with the party and loses 1D4% from their relationship.
@@ -225,7 +225,14 @@ G> Even when out of their vestments these pious interlocutors are visible by the
 
 ### Guild
 
-Roll once on the [Vocations](../vocations-and-skills) table, then roll 1D12 6 times:
+Roll once on the [Vocations](../vocations-and-skills) table to determine the business of the guild, then roll 1D12 6 times:
+
+- **Type:** The institution of the organization that defines its structure
+- **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
+- **Symbol:** The marking used to differentiate this organization from others
+- **Value:** The core value of the organization which informs their decisions and structure
+- **Color:** The primary color associated with the organization, often used in their clothes or banners
+- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Type     | Reputation  |   Symbol  |    Value     |  Color   |    Distinctive Feature     |
 |:----:|:-----------:|:-----------:|:---------:|:------------:|:--------:|:--------------------------:|
@@ -244,6 +251,7 @@ Roll once on the [Vocations](../vocations-and-skills) table, then roll 1D12 6 ti
 
 G> #### Example Guild Organization
 G>
+G> - **Vocation:** 81, Sailor
 G> - **Type:** 10, Conjuration
 G> - **Reputation:** 10, Industrious
 G> - **Symbol:** 2, Crow
@@ -251,9 +259,25 @@ G> - **Value:** 5, Competition
 G> - **Color:** 7, White
 G> - **Distinctive Feature:** 9, Missing Finger
 G>
-G> #### ???
+G> ##### Conjuration of the Peaceful Waves
+G>
+G> This group of sailors specialize in the Craft as applied to sailing, and moreover, into melding art with seamanship.
+G> Wherever Conjurers of the Peaceful Waves are found, so too are fantastic ropes, sails, anchors, lanterns, and all sorts of other equipment.
+G> The Conjurers lose their left pinky as they advance in the organization, the digit turning a brilliant blue and slowly disintegrating as they improve their skills.
+G>
+G> The Conjuration gathers in beautifully crafted halls across Pentola and even has a few halls in other lands and cities - anywhere the seas need crossing.
+G> They are serious competitors for any and all other groups and guilds who make goods for seafaring.
 
 ### Spire
+
+Roll 1d12 6 times:
+
+- **Shape:** The general shape category of the spire.
+- **Symbol:** The marking used to differentiate this organization from others
+- **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
+- **Value:** The core value of the organization which informs their decisions and structure
+- **Focus:** The purpose of the organization, what it primarily spends its effort on
+- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Shape   |  Symbol  |  Reputation  |    Value   |     Focus     |   Distinctive Feature    |
 |:----:|:----------:|:--------:|:------------:|:----------:|:-------------:|:------------------------:|
@@ -269,3 +293,22 @@ G> #### ???
 |  10  | Fractal    | Feather  | Prim         | Fame       | Pleasure      | Skin looks like opal     |
 |  11  | Spear      | Dagger   | Rigid        | Glory      | Recognition   | Body covered in soft fur |
 |  12  | Polygonal  | Lens     | Tireless     | Peace      | Wealth        | Ears are just holes      |
+
+G> #### Example Guild Organization
+G>
+G> - **Shape:** 2, Sheer
+G> - **Symbol:** 1, Griffin
+G> - **Reputation:** 4, Creative
+G> - **Value:** 11, Glory
+G> - **Focus:** 11, Recognition
+G> - **Distinctive Feature:** 1, Metallic Veins
+G>
+G> ##### Skylion Spire
+G>
+G> Exploding up from an isle in the Pentolan Bay is the Skylion Spire, a sheer megalith of a perfect cylinder.
+G> Far above, beyond the sight of those in the canals there is a feature atop the spire through which the high winds sometimes pour, causing echoing reverberations which sound like ten thousand lions roaring over the city.
+G> The Skylions who live in the spire and recruit for it are amongst the most dangerous militants in the city, mostly made up of warriors who are both champions, able to channel miracles, and battlecrafters able to weave the dweomers into combat and stack the odds in their favor.
+G>
+G> Their crest, a bloody Griffin's head, is emblazoned on their banners and tunics.
+G> The skylions are renowned across the city for being deadly duelists and interveners, often useful as proxies for a duel in a court of swords or as mercenaries when up against unbelievable odds.
+G> The skylions seek glory and recognition every day, aiming always to be known as the greatest masters of violence and battle.
