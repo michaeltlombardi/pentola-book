@@ -24,8 +24,6 @@ G> Character specialization is described by their _skills_, vocations act as sur
 G>
 G> You can do entirely away with skills and just rely on vocations, but be aware that this reduces the number of knobs and levers available.
 G>
-G> Probably! They're good at fiddling with mechanisms.
-G>
 G> One thing you can do is increase the IP cost of raising a vocation to offset the temptation to use it for everything (if you find that to be a problem).
 
 Every character begins play with a single vocation at 25% and can optionally acquire a second vocation later by spending five IP.
@@ -111,7 +109,7 @@ G> None of Tarasi's skills or her vocation apply to this action, so she can't ad
 G>
 G> Scenario 2: Picking a Lock
 G>
-G> In this case, Tarasi has no skills that apply tothis action, but her vocation does - so she can add that bonus to this test.
+G> In this case, Tarasi has no skills that apply to this action, but her vocation does - so she can add that bonus to this test.
 G>
 G> Scenario 3: Appraising a Lock
 G>

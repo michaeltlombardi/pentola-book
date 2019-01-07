@@ -148,7 +148,7 @@ G> Highlight items made from those materials as higher status or remarkable, bec
 G>
 G> Particularly notable here, as with the rest of the setting, is the relative scarcity of iron.
 G> Iron is mostly used for it's anti-demon properties - this world does not have steel manufacture but does have plentiful sources of copper and tin for bronze.
-G> In Pentola, adding iron to armor and other equipment is incredibly expensive and often has more valuable applications as a component for magic and anti-demon applications.
+G> In Pentola, adding iron to armor and other equipment is incredibly expensive and often is more valuable as a component for magic and anti-demon applications.
 
 ### Armor Qualities
 
