@@ -159,13 +159,13 @@ Instead of having 250 points to spend on skills, you gain the skills listed for 
 
 | d10 result |    Archetype    | Skills (Bonus %) |
 |:----------:|:---------------:|:-----------------|
-|      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Influnce (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), and Dodge (20).
+|      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Bluster (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), and Dodge (20).
 |      2     | Archer          | Marksman (35), Athletics (35), Perception (30), Streetwise (20), Haggling (20), Fletching (20), Hunting (20), and Stealth (20).
 |      3     | Thief           | Stealth (35), Acrobatics (35), Streetwise (30), Pickpocket (20), Lockpicking (20), Perception (20), Reconnaissance (20), and Marksman (20).
 |      4     | Alchemist       | Alchemy (35), Research (35), Trade (30), Literacy [Pentolan] (20), Crafting (20), Nature Lore (20), Medicine (20), and Appraisal (20).
-|      5     | Priest          | Influence (35), Religious Lore (35), Diabolism (30), Crafting (20), Investigation (20), Literacy (20), Occult Lore (20), and Alchemy (20).
+|      5     | Priest          | Persuasion (35), Religious Lore (35), Diabolism (30), Crafting (20), Investigation (20), Literacy (20), Occult Lore (20), and Alchemy (20).
 |      6     | Mage            | Crafting (35), Literacy [Pentolan] (35), Researching (30), Alchemy (20), Occult Lore (20), Diabolism (20), Dodge (20), and Appraisal (20).
-|      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Influence (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), and Swimming (20).
-|      8     | Con Artist      | Influence (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), and Brawling (20).
+|      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Rhetoric (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), and Swimming (20).
+|      8     | Con Artist      | Bluff (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), and Brawling (20).
 |      9     | Artist          | Crafting (35), Sculpting (35), Trade (30), Research (20), Mechanisms (20), Alchemy (20), Literacy [Pentolan] (20), and Drawing (20). May trade Sculpting for any other type of art.
-|     10     | Leader          | Influence (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), and Dodge (20).
+|     10     | Leader          | Persuasion (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), and Dodge (20).
