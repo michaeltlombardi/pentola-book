@@ -7,7 +7,7 @@ introduction.md
 02-character-creation/c-ambitions-and-traits.md
 02-character-creation/d-vocations-and-skills.md
 02-character-creation/e-relationships.md
-02-character-creation/f-repuations.md
+02-character-creation/f-reputations.md
 02-character-creation/g-knacks.md
 02-character-creation/h-crafting.md
 02-character-creation/i-wealth-and-equipment.md
