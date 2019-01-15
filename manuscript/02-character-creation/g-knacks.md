@@ -3,8 +3,11 @@
 Knacks are special abilities characters can possess, tied to _who they are_ and _what they repeatedly do_ - a character's knacks are a statement about a character's _gestalt_, the qualities which are more than the sum of a character's individual parts.
 Knacks derive from personality traits, behaviors, vocations, and core beliefs.
 
-Characters begin play with three randomly determined knacks at magnitude 3.
-To determine a new knack, roll a d8 on the formula table and then a d30 four times to determine the quirk, form, effect, and element.
+Characters begin play with a randomly determined knack at magnitude 3.
+
+To determine a new knack, roll a d8 on the formula table and then a d20 four times to determine the quirk, form, effect, and element.
+Alternatively, for faster generation, roll a d8 on the formula table and then a d20 once, reading directly across the second table to determine the quirk, form, effect, and element.
+
 If the combination doesn't make sense, roll again or pick an appropriate option from the list.
 
 Some knacks may be predetermined and provided by the referee as resulting from a particular organization, skill, or vocation.
@@ -19,44 +22,34 @@ Note that this limits the maximum magnitude of any given knack, not the total ma
 |    1    | (Physical Quirk) (Physical Form) of (Ethereal Effect) (Ethereal Element) |
 |    2    | (Physical Quirk) (Physical Form) of (Ethereal Effect) (Physical Element) |
 |    3    | (Physical Quirk) (Physical Form) of (Physical Effect) (Physical Element) |
-|    4    | (Physical Quitk) (Physical Form) of (Physical Effect) (Ethereal Element) |
+|    4    | (Physical Quirk) (Physical Form) of (Physical Effect) (Ethereal Element) |
 |    5    | (Ethereal Quirk) (Ethereal Form) of (Ethereal Effect) (Ethereal Element) |
 |    6    | (Ethereal Quirk) (Ethereal Form) of (Ethereal Effect) (Physical Element) |
 |    7    | (Ethereal Quirk) (Ethereal Form) of (Physical Effect) (Physical Element) |
-|    8    | (Ethereal Quitk) (Ethereal Form) of (Physical Effect) (Ethereal Element) |
+|    8    | (Ethereal Quirk) (Ethereal Form) of (Physical Effect) (Ethereal Element) |
 
-| Roll d30 | Physical Quirk | Physical Form | Ethereal Quirk | Ethereal Form | Physical Effect | Ethereal Effect | Physical Element | Ethereal Element |
+| Roll d20 | Physical Quirk | Physical Form | Ethereal Quirk | Ethereal Form | Physical Effect | Ethereal Effect | Physical Element | Ethereal Element |
 |:--------:|:--------------:|:-------------:|:--------------:|:-------------:|:---------------:|:---------------:|:----------------:|:----------------:|
-|    01    | Atrophied      | Ankle         | Soft           | Aura          | Animating       | Avenging        | Acid             | Ash              |
-|    02    | Bevelled       | Arm           | Ringing        | Bile          | Attracting      | Banishing       | Amber            | Chaos            |
-|    03    | Bloody         | Back          | Metallic       | Blood         | Binding         | Bewildering     | Bark             | Distortion       |
-|    04    | Burned         | Body          | Congealed      | Blush         | Blossoming      | Blinding        | Blood            | Dream            |
-|    05    | Dark           | Brow          | Bitter         | Breath        | Consuming       | Charming        | Bone             | Dust             |
-|    06    | Extra          | Cheek         | Sweet          | Hearing       | Creeping        | Compelling      | Brine            | Fire             |
-|    07    | Gnarled        | Chest         | Lingering      | Heart         | Crushing        | Concealing      | Clay             | Fog              |
-|    08    | Hairy          | Ear           | Sharp          | Laugh         | Diminishing     | Deafening       | Crow             | Harmony          |
-|    09    | Jeweled        | Elbow         | Dull           | Liver         | Duplicating     | Deceiving       | Crystal          | Heat             |
-|    10    | Large          | Eye           | Full           | Marrow        | Enveloping      | Disguising      | Ember            | Light            |
-|    11    | Long           | Finger        | Sickly         | Mind          | Expanding       | Dispelling      | Fungus           | Lightning        |
-|    12    | Muscular       | Foot          | Harsh          | Mood          | Fusing          | Emboldening     | Glass            | Memory           |
-|    13    | Pale           | Hair          | Burning        | Movement      | Hastening       | Energizing      | Honey            | Mutation         |
-|    14    | Polished       | Hand          | Icy            | Phlegm        | Hindering       | Enlightening    | Ice              | Negation         |
-|    15    | Rough          | Jaw           | Smooth         | Presence      | Illuminating    | Enraging        | Insect           | Plague           |
-|    16    | Sandy          | Knee          | Staggered      | Reflection    | Imprisoning     | Excruciating    | Wood             | Probability      |
-|    17    | Scaled         | Lips          | Memorable      | Scent         | Opening         | Intoxicating    | Lava             | Rain             |
-|    18    | Scarred        | Nail          | Bland          | Sense         | Petrifying      | Maddening       | Moss             | Rot              |
-|    19    | Short          | Neck          | Pungent        | Shadow        | Phasing         | Mesmerizing     | Obsidian         | Shadow           |
-|    20    | Small          | Nose          | Clear          | Sight         | Piercing        | Mindreading     | Oil              | Smoke            |
-|    21    | Smooth         | Nostril       | Repuslive      | Sound         | Pursuing        | Nullifying      | Poison           | Snow             |
-|    22    | Spiked         | Palm          | Hastened       | Echo          | Reflecting      | Paralyzing      | Rat              | Soul             |
-|    23    | Split          | Shoulder      | Hardened       | Sweat         | Rending         | Revealing       | Sand             | Star             |
-|    24    | Sticky         | Skin          | Resonant       | Taste         | Repelling       | Revolting       | Serpent          | Stasis           |
-|    25    | Swollen        | Skull         | Stinging       | Tears         | Screaming       | Silencing       | Slime            | Steam            |
-|    26    | Symetrical     | Stomache      | Shimmering     | Timbre        | Sealing         | Soothing        | Stone            | Thunder          |
-|    27    | Thick          | Teeth         | Fearsome       | Touch         | Shapeshifting   | Terrifying      | Thorn            | Time             |
-|    28    | Thin           | Toe           | Animalistic    | Vitality      | Shielding       | Warding         | Vine             | Warp             |
-|    29    | Twisted        | Tongue        | Ancient        | Voice         | Spawning        | Wearying        | Water            | Whisper          |
-|    30    | Wiry           | Bones         | Weak           | Yawn          | Transmuting     | Withering       | Wood             | Wind             |
+|    01    | Atrophied      | Arm           | Animalistic    | Hearing       | Piercing        | Revealing       | Flesh            | Memory           |
+|    02    | Bloody         | Eye           | Burning        | Blood         | Spawning        | Excruciating    | Bone             | Dream            |
+|    03    | Burned         | Hair          | Dull           | Taste         | Diminishing     | Soothing        | Brine            | Thunder          |
+|    04    | Gnarled        | Lips          | Fearsome       | Echo          | Consuming       | Energizing      | Metal            | Chaos            |
+|    05    | Hairy          | Palm          | Full           | Blush         | Animating       | Bewildering     | Plant            | Belief           |
+|    06    | Jeweled        | Nail          | Hardened       | Shadow        | Crushing        | Withering       | Fungus           | Hope             |
+|    07    | Large          | Ear           | Harsh          | Breath        | Attracting      | Avenging        | Insect           | Fear             |
+|    08    | Muscular       | Stomache      | Hastened       | Voice         | Duplicating     | Warding         | Stone            | Pain             |
+|    09    | Polished       | Nose          | Icy            | Laugh         | Sealing         | Compelling      | Mouth            | Harmony          |
+|    10    | Sandy          | Cheek         | Lingering      | Yawn          | Hindering       | Concealing      | Muscle           | Violence         |
+|    11    | Scaled         | Skin          | Metallic       | Tears         | Enveloping      | Mesmerizing     | Serpent          | Whisper          |
+|    12    | Scarred        | Jaw           | Repuslive      | Phlegm        | Opening         | Deceiving       | Portal           | Intent           |
+|    13    | Small          | Teeth         | Resonant       | Presence      | Illuminating    | Enlightening    | Blood            | Intellect        |
+|    14    | Spiked         | Brow          | Ringing        | Sweat         | Imprisoning     | Emboldening     | Thorn            | Knowledge        |
+|    15    | Split          | Tongue        | Sharp          | Mind          | Reflecting      | Intoxicating    | Silver           | Secret           |
+|    16    | Sticky         | Finger        | Shimmering     | Marrow        | Petrifying      | Silencing       | Slime            | Peace            |
+|    17    | Swollen        | Skull         | Sickly         | Reflection    | Screaming       | Banishing       | Crystal          | Faith            |
+|    18    | Thick          | Hand          | Smooth         | Movement      | Hastening       | Terrifying      | Smoke            | Hunger           |
+|    19    | Twisted        | Neck          | Soft           | Touch         | Bending         | Disguising      | Wood             | Surety           |
+|    20    | Wiry           | Foot          | Stinging       | Scent         | Repelling       | Enraging        | Drake            | Friendship       |
 
 Once you've determined the description of the knack the referee describes the knack's general effects based on its name and works with you to explain how it ties into your character's gestalt.
 If a knack is related to a vocation, skill, or relationship its magnitude can never exceed the 10s place of the relevant bonus (in addition to the limitation on all knacks imposed by your Power score).
