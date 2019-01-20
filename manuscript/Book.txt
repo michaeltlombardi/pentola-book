@@ -19,3 +19,4 @@ introduction.md
 04-supplication.md
 04-supplication/a-ranks.md
 04-supplication/b-miracles.md
+05-combat.md
