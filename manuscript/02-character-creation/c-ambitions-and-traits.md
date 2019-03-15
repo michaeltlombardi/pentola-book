@@ -114,7 +114,7 @@ G> Note that characters accrue IP for working to fulfill their ambitions, not on
 |  80  | Seraphic      | Smooth Hands      | Quilling          | Sunshine                       | Rule a Neighborhood
 |  81  | Solitary      | Square Face       | Reading           | Tapeworms                      | Rule a Spire
 |  82  | Steadfast     | Square Hands      | Seafaring         | Teeth                          | See the Glass Shark
-|  83  | Stoiid        | Squinty Eyes      | Sewing            | The Churn                      | Slay a Demon
+|  83  | Stolid        | Squinty Eyes      | Sewing            | The Churn                      | Slay a Demon
 |  84  | Studious      | Stocky            | Shoes             | The Night                      | Start a New Line of Drakes
 |  85  | Stupid        | Straight Nose     | Singing           | The Sea                        | Summon a Demon
 |  86  | Suave         | Strapping         | Sketching         | Theatres                       | Survive the Gauntlet

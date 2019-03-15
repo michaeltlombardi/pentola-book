@@ -261,31 +261,31 @@ G> You could make acquiring weapons cheaper by removing the usage die cost, but 
 - **Slow (X):** Weapons with this quality are slow to reload and require X actions to reload.
 - **Fashionable:** Weapons with this quality makes relevant social tests one step easier - people perceive the wearer as more wealthy and high status.
 
-| Weapon              | Usage Die | Damage | Qualities |
-|:--------------------|:---------:|:------:|:---------:|
-| Dagger              | d4        | 1d6    | Concealable, Cheap
-| Sword               | d8        | 1d8    |
-| Spear               | d6        | 1d8    | Easily Repairable, Balanced, Reach
-| Halberd             | d6        | 2d6    | Easily Repairable, Encumbering
-| Pike                | d6        | 1d10   | Easily Repairable, Encumbering, Reach
-| Throwing Dagger     | d8        | 1d4    | Concealable, Balanced
-| Khopesh             | d8        | 1d8    | Fashionable
-| Kopis               | d8        | 1d10   | Fashionable
-| Mace                | d10       | 2d4    | Expensive
-| Club                | d6        | 1d6    | Cheap
-| Handaxe             | d8        | 1d8    | Balanced
-| Greataxe            | d8        | 2d6    | Encumbering
-| Buckler             | d6        | 1d4    | Shield
-| Round Shield        | d8        | 1d6    | Shield
-| Figure Eight Shield | d10       | 1d8    | Shield, Encumbering
-| Tower Shield        | d12       | 1d8    | Shield, Heavy, Encumbering
-| Shortbow            | d4        | 1d8    | Ranged
-| Longbow             | d6        | 2d6    | Ranged
-| Light Crossbow      | d6        | 2d4    | Ranged, Slow (2)
-| Heavy Crossbow      | d8        | 2d8    | Ranged, Slow (4)
-| Hand Crossbow       | d4        | 1d6    | Ranged, Slow (2)
-| Repeating Crossbow  | d4        | 1d8    | Ranged
-| Sling               | -         | 1d10   | Ranged, Cheap
+| Weapon              | Usage Die | Damage | Qualities                             | Value |
+|:--------------------|:---------:|:------:|:-------------------------------------:|:------|
+| Dagger              | d4        | 1d6    | Concealable, Cheap                    | 1
+| Sword               | d8        | 1d8    |                                       | 4
+| Spear               | d6        | 1d8    | Easily Repairable, Balanced, Reach    | 3
+| Halberd             | d6        | 2d6    | Easily Repairable, Encumbering        | 4
+| Pike                | d6        | 1d10   | Easily Repairable, Encumbering, Reach | 3
+| Throwing Dagger     | d4        | 1d4    | Concealable, Balanced                 | 2
+| Khopesh             | d8        | 1d8    | Fashionable                           | 4
+| Kopis               | d8        | 1d10   | Fashionable                           | 4
+| Mace                | d10       | 2d4    | Expensive                             | 6
+| Club                | d6        | 1d6    | Cheap                                 | 3
+| Handaxe             | d8        | 1d8    | Balanced                              | 4
+| Greataxe            | d8        | 2d6    | Encumbering                           | 5
+| Buckler             | d6        | 1d4    | Shield                                | 3
+| Round Shield        | d8        | 1d6    | Shield                                | 4
+| Figure Eight Shield | d10       | 1d8    | Shield, Encumbering                   | 5
+| Tower Shield        | d12       | 1d8    | Shield, Heavy, Encumbering            | 6
+| Shortbow            | d4        | 1d8    | Ranged                                | 2
+| Longbow             | d6        | 2d6    | Ranged                                | 4
+| Light Crossbow      | d6        | 2d4    | Ranged, Slow (2)                      | 4
+| Heavy Crossbow      | d8        | 2d8    | Ranged, Slow (4)                      | 4
+| Hand Crossbow       | d4        | 1d6    | Ranged, Slow (2)                      | 2
+| Repeating Crossbow  | d4        | 1d8    | Ranged                                | 2
+| Sling               | -         | 1d10   | Ranged, Cheap                         | 1
 
 ### Masterwork and Magic Weapons
 
@@ -294,7 +294,7 @@ As with armor there's no distinction between masterwork weapons and magical ones
 Particularly skilled artisans might create items which are more resilient, deal more damage, add or remove qualities, or grant new special abilities.
 
 {icon=dice-d20}
-G> #### Examples of Magic Armor
+G> #### Examples of Magic Weapons
 G>
 G> Here a few examples of magical armor created by artisans:
 G>

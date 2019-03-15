@@ -79,7 +79,7 @@ You can write your own vocation, roll to determine your vocation based on the ta
 |     36      | Enchanter      |     86      | Spelunker      |
 |     37      | Exorcist       |     87      | Spirit Binder  |
 |     38      | Explorer       |     88      | Spy            |
-|     39      | Falconer       |     99      | Summoner       |
+|     39      | Falconer       |     89      | Summoner       |
 |     40      | Fencer         |     90      | Surgeon        |
 |     41      | Firefighter    |     91      | Tailor         |
 |     42      | Fisher         |     92      | Teacher        |
@@ -90,7 +90,7 @@ You can write your own vocation, roll to determine your vocation based on the ta
 |     47      | Glider         |     97      | Vatter         |
 |     48      | Gondolier      |     98      | Weaver         |
 |     49      | Grocer         |     99      | Wizard         |
-|     50      | Guard          |     00      | Writer         |
+|     50      | Guard          |    100      | Writer         |
 
 ## Choosing Skills
 
@@ -124,6 +124,27 @@ In Pentola there is no defined skill list, but here are a few examples for inspi
 
 > Dodge, Archery, Fencing, Culture (Gascon), Alchemy, Athletics, Driving, Bluffing, Persuasion, Rhetoric, Mechanisms, Streetwise, Trade, Literacy (Pentolan), Occult Lore, Medicine, Wrestling, Painting, Swimming, Thaumaturgy, Drakeback Riding, Herbalism, Mathematics, Goldsmithing, Scultping, Researching, Stealth, Haggling, Literacy (Aydinlar), etc.
 
+A> **Archetype Skills**
+A>
+A> If you're unsure of what sort of character you'd like to play mechanically, you may choose to roll for an archetype on the table below or select one freely.
+A>
+A> Instead of having 250 points to spend on skills, you gain the skills listed for your archetype and have 50 points left to distribute.
+A>
+A> | d10 result |    Archetype    | Skills (Bonus %) |
+A> |:----------:|:---------------:|:-----------------|
+A> |      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Bluster (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), Dodge (20), and Crafting (10).
+A> |      2     | Archer          | Marksman (35), Athletics (35), Perception (30), Streetwise (20), Haggling (20), Fletching (20), Hunting (20), Stealth (20), and Crafting (10).
+A> |      3     | Thief           | Stealth (35), Acrobatics (35), Streetwise (30), Pickpocket (20), Lockpicking (20), Perception (20), Reconnaissance (20), Marksman (20), and Crafting (10).
+A> |      4     | Alchemist       | Alchemy (35), Research (35), Trade (30), Crafting (30), Literacy [Pentolan] (20), Nature Lore (20), Medicine (20), and Appraisal (20).
+A> |      5     | Priest          | Persuasion (35), Religious Lore (35), Diabolism (30), Crafting (30), Investigation (20), Literacy [Pentolan] (20), Occult Lore (20), and Alchemy (20).
+A> |      6     | Mage            | Crafting (45), Literacy [Pentolan] (35), Researching (30), Alchemy (20), Occult Lore (20), Diabolism (20), Dodge (20), and Appraisal (20).
+A> |      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Rhetoric (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), Swimming (20), and Crafting (10).
+A> |      8     | Con Artist      | Bluff (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), Brawling (20), and Crafting (10).
+A> |      9     | Artist          | Crafting (45), Sculpting (35), Trade (30), Research (20), Mechanisms (20), Alchemy (20), Literacy [Pentolan] (20), and Drawing (20). _May trade Sculpting and Drawing for any other types of art._
+A> |     10     | Leader          | Persuasion (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), Dodge (20), and Crafting (10).
+A>
+A> _Note that this includes the automatic 10% skill bonus in Crafting every Pentolan starts with._
+
 {icon=wrench}
 G> #### Skills and Ambiguity
 G>
@@ -150,22 +171,3 @@ G>
 G> If a character is has a 25% in a skill, consider that they automatically know anything an apprentice in that field might know. For everything else, make them test.
 G> If a character has a 50% in a skill, consider that they automatically know anything a seasoned professional in that field might know. For everything else, make them test.
 G> If a character has a 75% in a skill, consider that they automatically know anything about their field that isn't hidden, unique, or otherwise very hard to discover. For everything else, make them test.
-
-### Archetype Skills
-
-If you're unsure of what sort of character you'd like to play mechanically, you may choose to roll for an archetype on the table below or select one freely.
-
-Instead of having 250 points to spend on skills, you gain the skills listed for your archetype and have 50 points left to distribute.
-
-| d10 result |    Archetype    | Skills (Bonus %) |
-|:----------:|:---------------:|:-----------------|
-|      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Bluster (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), and Dodge (20).
-|      2     | Archer          | Marksman (35), Athletics (35), Perception (30), Streetwise (20), Haggling (20), Fletching (20), Hunting (20), and Stealth (20).
-|      3     | Thief           | Stealth (35), Acrobatics (35), Streetwise (30), Pickpocket (20), Lockpicking (20), Perception (20), Reconnaissance (20), and Marksman (20).
-|      4     | Alchemist       | Alchemy (35), Research (35), Trade (30), Literacy [Pentolan] (20), Crafting (20), Nature Lore (20), Medicine (20), and Appraisal (20).
-|      5     | Priest          | Persuasion (35), Religious Lore (35), Diabolism (30), Crafting (20), Investigation (20), Literacy (20), Occult Lore (20), and Alchemy (20).
-|      6     | Mage            | Crafting (35), Literacy [Pentolan] (35), Researching (30), Alchemy (20), Occult Lore (20), Diabolism (20), Dodge (20), and Appraisal (20).
-|      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Rhetoric (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), and Swimming (20).
-|      8     | Con Artist      | Bluff (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), and Brawling (20).
-|      9     | Artist          | Crafting (35), Sculpting (35), Trade (30), Research (20), Mechanisms (20), Alchemy (20), Literacy [Pentolan] (20), and Drawing (20). May trade Sculpting for any other type of art.
-|     10     | Leader          | Persuasion (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), and Dodge (20).
