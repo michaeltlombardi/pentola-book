@@ -13,8 +13,8 @@ If the combination doesn't make sense, roll again or pick an appropriate option 
 Some knacks may be predetermined and provided by the referee as resulting from a particular organization, skill, or vocation.
 
 Knacks gained after character creation always start at magnitude 1.
-The maximum magnitude of any knack is limited by a character's POW.
-For example, a character with a POW of 12 could not have any knacks whose magnitude was 13 or higher.
+The maximum magnitude of any knack is limited by a character's max PP.
+For example, a character with a PP of 6 could not have any knacks whose magnitude was 7 or higher.
 Note that this limits the maximum magnitude of any given knack, not the total magnitude of knacks a character can acquire.
 
 | Roll d8 |                               Description                                |
@@ -72,7 +72,7 @@ When an opposed test is required, the character exercising their knack always ro
 The target rolls against BOD (if the knack is something that can be dodged) or POW (if the knack is something that can be resisted by force of will) and adds their highest relevant bonus as normal.
 
 Unless otherwise specified, a knack's ongoing effects last up to 10 minutes per magnitude and has a range of nearby.
-If a knack deals damage instantly it deals 1d6 per magnitude if it is reduced by armor or 2 per magnitude if it is not.
+If a knack deals damage instantly it deals 1d3 per magnitude if it is reduced by armor or 1 per magnitude if it is not.
 If a knack increases/decreases damage dealt or armor for a duration it does so for 1 point per magnitude.
 If a knack imposes a penalty or grants a bonus actively it does so at 10% per magnitude.
 If a knack imposes a penalty or grants a bonus passively it does so at 5% per total magnitude.
@@ -90,7 +90,7 @@ G> This indicates that the description of our knack will match the following des
 G>
 G> > `(Physical Quirk) (Physical Form) of (Physical Effect) (Ethereal Element)`.
 G>
-G> We now roll a d30 four times to determine each piece: 14, 20, 26, 8.
+G> We now roll a d20 once to quickly determine the knack, getting a 9.
 G>
 G> This results in the knack "Polished Nose of Sealing Harmony"
 G>
@@ -122,7 +122,7 @@ Note that the HP is lost _whether or not_ they succeed on the test as they burn 
 Failure indicates that they simply couldn't control it.
 
 {icon=dice-d20}
-G> #### Example: Exercising a Knack at 0 PP
+G> #### Example: Exercising a Knack with 0 PP
 G> Karacter chooses to exercise their "Polished Scent of Sealing Harmony" knack in response to escalating tensions between two factions in a last ditch attempt to prevent violence from breaking out.
 G> They have the knack at a magnitude 5 and choose to exercise it as such, but have no PP left.
 G>

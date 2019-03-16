@@ -44,7 +44,7 @@ G> Finally, as Karacter's goal is to become a full fledged member of the Wardens
 G>
 G> During Karacter's first session it becomes clear that lacking a proper weapon (Karacter only has a single dagger which doubles as their utility knife) is a problem.
 G> Karacter asks their aunt, Warden, for a loaner weapon and makes a relationship test.
-G> Karacter's POW is 11, making the base goal 33% - Karacter adds their relationship bonus, 25%, for a total goal of 58%.
+G> Karacter's POW is 18, to which they add their relationship bonus, 25%, for a total goal of 43%.
 G>
 G> Karacter rolls a 32 and the referee declares that Aunt Warden lends an old shortsword and a spare longbow to Karacter - on the condition that Karacter must succeed in the trials to join the Wardens or return the weapons upon failure.
 G>

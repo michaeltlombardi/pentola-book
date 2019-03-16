@@ -231,8 +231,8 @@ Note that initiative doesn't always mean combat - you might break into initiativ
 G> #### Example Initiative: Two Combatants
 G>
 G> Toph and Tarasi are sparring.
-G> Toph has an INT of 13 (base test 39%) and a fencing skill bonus of 43% (total goal of 82%).
-G> Tarasi has an INT of 10 (base test 30%) and a gearslinger skill bonus of 20% (total goal of 50%).
+G> Toph has an INT of 39 and a fencing skill bonus of 43% (total goal of 82%).
+G> Tarasi has an INT of 30 and a gearslinger skill bonus of 20% (total goal of 50%).
 G>
 G> At the beginning of the moment both characters roll an initiative test and their results are compared:
 G>
@@ -249,7 +249,7 @@ G> The next moment starts and they both roll for initiative again and repeat the
 G>
 G> #### Example Initiative: Three Combatants
 G>
-G> As in the last example, but there's now a third combatant, Galner (INT 10, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
+G> As in the last example, but there's now a third combatant, Galner (INT 30, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
 G> Toph's result is a 31 (success), Tarasi's a 79 (failure), and Galner's a 10 (success).
 G>
 G> Tarasi declares her action first, deciding to kick at Toph.

@@ -67,7 +67,7 @@ The power points can be sourced from an item, but only one whose power point sto
 {icon=dice-d20}
 G> #### Example: Dweomer Complexity
 G>
-G> Alessia has an INT of 10, a crafting skill bonus of 65%, meaning she can handle a complexity of up to 6 on each of the dweomer's effects across magnitude, duration, and range.
+G> Alessia has an INT of 30, a crafting skill bonus of 65%, meaning she can handle a complexity of up to 6 on each of the dweomer's effects across magnitude, duration, and range.
 G> That's up to a total complexity score of 24, with no single effect having a rating higher than 6.
 G>
 G> Alessia could choose to apply a dweomer with a magnitude of 4 (4 complexity), a Duration of 4 hours (6 complexity), and a range of one furlong (4 complexity) for a total of 14 complexity.

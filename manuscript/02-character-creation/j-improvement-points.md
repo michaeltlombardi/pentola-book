@@ -65,9 +65,9 @@ You can choose to spend one improvement point to modify a skill, reputation, or 
 
 You can choose to spend two improvement points to modify a vocation bonus by 5 points.
 
-You can choose to spend three improvement points to increase one characteristic by one point.
-The maximum a human character can increase a characteristic to is 21.
-For non-humans, the maximum for a characteristic is equal to the maximum possible starting score for the characteristic plus three.
+You can choose to spend one improvement point to increase one characteristic by one point.
+The maximum a human character can increase a characteristic to is 75.
+For non-humans, the maximum for a characteristic is equal to the maximum possible starting score for the characteristic plus 15.
 
 You can choose to spend one improvement point per magnitude to acquire or improve an knack.
 

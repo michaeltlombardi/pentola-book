@@ -42,13 +42,13 @@ The potency of any effects caused by a mishap is equal to the intended magnitude
 |     11    | **Slippage:** The formula is a failure and drains the alchemist of 1d4 PP as the magical energies fluctuate dangerously.
 |     12    | **Underpowered:** The formula is "successful" but only at magnitude 1.
 |     13    | **Disorienting:** The formula is "successful" but includes a side effect which makes all INT tests hard for the duration.
-|     14    | **Spillage:** The batch expands beyond its containers, spilling onto everything near by and causing chemical burns (2d4-1 HP) to everything it touches.
+|     14    | **Spillage:** The batch expands beyond its containers, spilling onto everything near by and causing chemical burns (1d6 HP) to everything it touches.
 |     15    | **Shattering:** The batch petrifies everything close, shattering into dangerous shards in 1d4 moments.
 |     16    | **Freezing:** The batch sucks all of the heat from the area nearby, freezing everything solid in 1d6 moments.
 |     17    | **Maddening:** The fumes from this batch rapidly expand to fill the room, inducing a random madness in those who breath it in.
 |     18    | **Puddling:** The noxious particles from this failed batch destabilize any solids they come in contact with, causing them to liquify.
 |     19    | **Necrotizing:** This batch bubbles over and expands violently, seeking out living flesh nearby and causing it to begin to rot immediately.
-|     20    | **Tephratic Inversion:** The experiment goes horribly awry as magic itself burns out, drawing all nearby magic and energy into it at a rate of 3d6 PP / moment. When the PP is drained from nearby living creatures it instead drains HP until death or escape. This terrible mishap will drain the magic from creatures and items alike, destroying them.
+|     20    | **Tephratic Inversion:** The experiment goes horribly awry as magic itself burns out, drawing all nearby magic and energy into it at a rate of 2d4 PP / moment. When the PP is drained from nearby living creatures it instead drains HP until death or escape. This terrible mishap will drain the magic from creatures and items alike, destroying them.
 
 ## Producing Alchemical Items
 

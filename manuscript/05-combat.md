@@ -35,32 +35,32 @@ When a character reaches 0 hit points they are dead.
 
 ### Major Wounds
 
-If a character loses at least half their current hitpoints from a single instantaneous source they suffer a major wound per the table below.
+If a character loses at least half their _current_ hitpoints from a single instantaneous source they suffer a major wound per the table below.
 Some results on the table includes a value for a dice roll in parentheses, like `(d6)`.
 After a character suffers a major wound they make a death test by rolling that die and adding any listed bonus; if the result is greater than or equal to the sizr of the die, the character dies from their wound.
 Otherwise, they'll survive, provided they get competent medical attention quickly.
 
 If the result on the table is something that could be on either side of the body, it is on the left if the last rolled test result was even and on the right side if it was odd.
 
-| Roll d12 | Body Part | Crushing                                             | Slicing                          | Piercing                                                                      |
-|:--------:|:---------:|:-----------------------------------------------------|:---------------------------------|:------------------------------------------------------------------------------|
-|     1    | Foot      | Foot crushed, walk slowly with a limp                | Foot cut off (d6+1)              | Foot stabbed through, limp til healed (d10)                                   |
-|     2    | Leg       | Femur cracked, walk slowly until healed              | Femoral artery sliced (d4+1)     | Thigh pierced,  painful flesh wound, slowing movement til healed (d6)         |
-|     3    | Hand      | Fingers crushed, unable to hold anything securely    | Hand cut off (d6+1)              | Hand stabbed through, unable to hold anything til healed (d10)                |
-|     4    | Arm       | Forearm broken, can't hold anything heavy til healed | Arm cut off at the elbow (d4+1)  | Forearm pierced, painful flesh wound, hard to hold anything til healed (d8+1) |
-|     5    | Belly     | Ruptured Spleen (d6+1)                               | Intestines falling out (d6+2)    | Aorta severed (d4+2)                                                          |
-|     6    | Chest     | Collapsed Lung (d6+1)                                | Sliced pectoral (d10)            | Pierced Heart, death                                                          |
-|     7    | Neck      | Broken Neck (d4+2)                                   | Slit throat, death               | Stabbed in the throat (d4+2)                                                  |
-|     8    | Cheek     | Shattered cheek, concussion (d4)                     | Cheek sliced open to mouth (d10) | Broken teeth and severed tongue (d6)                                          |
-|     9    | Eye       | Broken eye socket, eye pulverized (d6+1)             | Ear cut off                      | Lost eye (d4+1)                                                               |
-|    10    | Skull     | Shattered skull (d4+2)                               | Skull cracked (d6)               | Pierced skull (d4)                                                            |
-|    11    | Nose      | Crushed face (d6)                                    | Nose cut off (d10)               | Nose split (d4+1)                                                             |
-|    12    | Ear       | Oozing Brains, death                                 | Ear cut off (d10)                | Ear split (d4+2)                                                              |
+| Roll d12 | Body Part | Crushing                                             | Slicing                           | Piercing                                                                      |
+|:--------:|:---------:|:-----------------------------------------------------|:----------------------------------|:------------------------------------------------------------------------------|
+|     1    | Foot      | Foot crushed, walk slowly with a limp                | Foot cut off (2d3)                | Foot stabbed through, limp til healed (d3)                                    |
+|     2    | Leg       | Femur cracked, walk slowly until healed              | Femoral artery sliced (2d3)       | Thigh pierced,  painful flesh wound, slowing movement til healed (d4)         |
+|     3    | Hand      | Fingers crushed, unable to hold anything securely    | Hand cut off (d4+1)               | Hand stabbed through, unable to hold anything til healed (d3)                 |
+|     4    | Arm       | Forearm broken, can't hold anything heavy til healed | Arm cut off at the elbow (2d3)    | Forearm pierced, painful flesh wound, hard to hold anything til healed (d3+1) |
+|     5    | Belly     | Ruptured Spleen (d3)                                 | Intestines falling out (d4+2)     | Aorta severed (2d4)                                                           |
+|     6    | Chest     | Collapsed Lung (d3+1)                                | Sliced pectoral (d4)              | Pierced Heart, death                                                          |
+|     7    | Neck      | Broken Neck (d4+2)                                   | Slit throat, death                | Stabbed in the throat (2d4)                                                   |
+|     8    | Cheek     | Shattered cheek, concussion (d3-1)                   | Cheek sliced open to mouth (d3-1) | Broken teeth and severed tongue (d6)                                          |
+|     9    | Eye       | Broken eye socket, eye pulverized (d4)               | Eye sliced open, useless          | Lost eye (d4+1)                                                               |
+|    10    | Skull     | Shattered skull (2d4)                                | Skull cracked (d4)                | Pierced skull (d4)                                                            |
+|    11    | Nose      | Crushed face (d4)                                    | Nose cut off (d3)                 | Nose split (d4)                                                               |
+|    12    | Ear       | Oozing Brains, death                                 | Ear cut off (d3-1)                | Ear split (d4)                                                                |
 
 ### Medical attention
 
 Anyone can try to provide medical attention to an injured character by making a hard INT test for each wound sustained.
-For each success, they heal 1d4 HP.
+For each success, they heal 1d3 HP.
 
 If the test is a failure, no HP are restored and the character may not try to heal that wound again until they improve a medical skill or vocation.
 

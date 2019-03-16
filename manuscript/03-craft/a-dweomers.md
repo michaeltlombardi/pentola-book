@@ -58,7 +58,7 @@ G> If there's an effect which makes sense given the dweomer's description the re
 |   19-20   | Copy                         | Touch                        | Make a copy of an inanimate item which lasts for the duration.
 |   21-22   | Corrode (Substance)          | Permanent                    | Cause a particular inorganic substance to rapidly lose structural integrity.
 |   23-24   | Counterdweomer               | Reaction                     | Reactively ullify the effects of a dweomer being applied.
-|   25-26   | Create Charm                 | Permanent                    | Store** M PP** into a valuable item for later use (must spend **M PP** as well); make refillable by spending **1 IP**.
+|   25-26   | Create Charm                 | Permanent                    | Store **M PP** into a valuable item for later use (must spend **M PP** as well); make refillable by spending **1 IP**.
 |   27-28   | Create Echo                  | Permanent                    | Combine with another dweomer to store an echo into a single one-use item which can, with a crafting test, be released later.
 |   29-30   | Create Matrix                | Permanent                    | Create an item which contains a M dweomers and allows the wielder to apply and manipulate them using your Crafting skill bonus; Make reusable by spending **M IP**.
 |   31-32   | Demoralize / Galvanize       | Resist, Concentration        | Sew doubt and uncertainty or confidence and aggression into targets, making all combat tests one step harder/easier.
@@ -90,7 +90,7 @@ G> If there's an effect which makes sense given the dweomer's description the re
 |   83-84   | Show (Substance)             | Concentration                | Cause all sources of the specific substance within range to glow an appropriate color visible to all; **sense through M yards** of material.
 |   85-86   | Skin of Life                 | -                            | Protect the target from suffocation by air depravation, drowning, etc.
 |   87-88   | Smother                      | Resist, Concentration        | Neutralize the air around the target, drowning them on dry land. Target may hold their breath as normal if resisted; otherwise begin to suffocate immediately.
-|   89-90   | Spew (Element)               | Dodge, Instant               | Eject a stream of a specific element in the volume, dealing **2M damage** (if sensible).
+|   89-90   | Spew (Element)               | Dodge, Instant               | Eject a stream of a specific element in the volume, dealing **M damage** (if sensible).
 |   91-92   | Summon (Species)             | Resist, Instant              | Pull a specific type of creature towards you at its' swiftest speed to do your bidding for **M moments**; if it resists it knows who tried to summon and bind it.
 |   93-94   | Walk on (Element)            | -                            | Allows the target to walk on the specified element without sinking or being harmed by it.
 |   95-96   | Wall of (Element)            | Dodge                        | Create a wall of a specific element which can be moved each round to somewhere nearby.
@@ -111,7 +111,7 @@ G> #### Secret Dweomers and Organizations
 G>
 G> Part of the purpose of keeping the list of dweomers in this section small is to emphasize that every organization has different needs and focuses - and so they research and teach particular dweomers.
 G>
-G> Magic in Pentola is vast and varied, and there should be dozens of spells unique to a particular Crafter or organization.
+G> Magic in Pentola is vast and varied, and there should be dozens of dweomers unique to a particular Crafter or organization.
 G> The common dweomers are the sort of thing that shouldn't be surprising or particularly wondrous to behold - the strange and surprising dweomers should be researched and taught - and therefore known - by a smaller number of people.
 
 ## Researching Dweomers
@@ -137,7 +137,7 @@ G> #### Example: Researching a Dweomer
 G>
 G> Karacter wants to learn how to apply a dweomer they saw referenced once in the biography of a mage - the effect was described as "filling the room with thunder and shaking the very stones apart with voice alone."
 G>
-G> Between the player and referee, the effect is determined to be the infliction of 2M damage caused by sonic waves from the crafter and which has a 10% chance per M to destroy solid objects which it comes in contact with.
+G> Between the player and referee, the effect is determined to be the infliction of M damage caused by sonic waves from the crafter and which has a 10% chance per M to destroy solid objects which it comes in contact with.
 G>
 G> Karacter aquires chalk, pen, ink, and other materials for the experiment, making a wealth test for the lot.
 G> They then spend two half-days preparing for the experiment (Karacter has work, they can't just skip it to learn a dweomer).

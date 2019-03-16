@@ -57,9 +57,9 @@ G> If Karacter wanted to instead increase their wealth from Average to Wealthy, 
 
 ## Encumbrance
 
-A character can carry a number of items equal to their BOD with no issues.
+A character can carry a number of items equal to their max HP with no issues.
 Carrying over this amount means they are encumbered and all tests are one step harder - they can also only ever move to somewhere nearby in a moment.
-They simply cannot carry more than double their BOD.
+They simply cannot carry more than double their max HP.
 
 Note that some items can increase your encumbrance maximum by making carrying items easier.
 
@@ -156,25 +156,26 @@ G> In Pentola, adding iron to armor and other equipment is incredibly expensive 
 - **Cheap:** Armor with this quality never requires more than a single wealth roll to purchase but also never nets more than a single wealth roll when sold.
 - **Easily Repairable:** Armor with this quality is easier and cheaper to repair; roll twice on the usage die when repairing it yourself or make only one wealth roll to have it repaired to full if being done professionally.
 - **Fashionable:** Armor with this quality makes relevant social tests one step easier - people perceive the wearer as more wealthy and high status.
-- **Heavy:** Wearing any armor with this quality makes athletics-related actions and to resist fatigue one step harder.
+- **Heavy:** Wearing any armor with this quality makes athletics-related actions and to resist fatigue one step harder. Each piece of armor with this quality takes up an additional encumbrance slot.
+- **Light:** Each piece of armor with this quality does _not_ take up an encumbrance slot.
 - **Loud:**  Wearing any armor with this quality makes stealth-related actions where being heard is a concern one step harder.
 - **Dampened Hearing:** Wearing any armor with this quality makes tests to notice something audible one step harder.
 - **Limited Vision:** Wearing any armor with this quality makes visual perception tests one step harder.
 
 | Armor                  | AP | Usage Die | Qualities |
 |:----------------------:|:--:|:---------:|:----------|
-| Bone Cap               | 1  |    d4     | Easily Repairable, Loud
-| Bone Helm (Open)       | 1  |    d6     | Easily Repairable, Loud, Deadened Hearing
-| Bone Shirt             | 2  |    d6     | Easily Repairable, Loud
-| Bone Skirt             | 1  |    d6     | Easily Repairable, Loud
+| Bone Cap               | 1  |    d4     | Easily Repairable, Light, Loud
+| Bone Helm (Open)       | 1  |    d6     | Easily Repairable, Light, Loud, Deadened Hearing
+| Bone Shirt             | 2  |    d6     | Easily Repairable, Light, Loud
+| Bone Skirt             | 1  |    d6     | Easily Repairable, Light, Loud
 | Enamelled Breastplate  | 2  |    d8     | Fashionable, Expensive, Heavy
 | Enamelled Helm (Open)  | 1  |    d8     | Fashionable, Expensive, Deadened Hearing
 | Enamelled Greaves      | 1  |    d8     | Fashionable, Expensive
 | Enamelled Vambraces    | 1  |    d8     | Fashionable, Expensive
-| Padded Shirt           | 1  |    d6     | Cheap
-| Padded Trews           | 1  |    d6     | Cheap
-| Padded Hauberk         | 2  |    d8     | Cheap
-| Padded Cap             | 1  |    d4     | Cheap
+| Padded Shirt           | 1  |    d6     | Cheap, Light
+| Padded Trews           | 1  |    d6     | Cheap, Light
+| Padded Hauberk         | 2  |    d8     | Cheap, Light
+| Padded Cap             | 1  |    d4     | Cheap, Light
 | Plate Breastplate      | 4  |    d10    | Expensive, Heavy
 | Plate Greaves          | 1  |    d10    | Expensive
 | Plate Helm (Open)      | 2  |    d10    | Expensive, Deadened Hearing
@@ -227,15 +228,16 @@ G>   This bands of this linen skirt detail an idyllic scene of peace in a spire 
 Weapons and shields have a damage die which is rolled to determine how much HP damage is inflicted on the target.
 Remember that AP and parrying can reduce incoming damage to zero.
 
+Unless modified by a quality or magic effect a weapon deals 1d6 damage.
+
 In addition to damage, weapons and shields also have a usage die.
 For weapons, the usage die is rolled after every combat where the weapon fails to damage an enemy because all of the damage was negated by AP or the weapon was used to parry an attack.
 
 You can use your shield to block an incoming attack, reducing the usage die by one step to negate all incoming damage if you succeed on the opposed test.
 
-The cost of a weapon is determined by its usage die and damage:
+The cost of a weapon is determined by its usage die and may be modified by its qualities:
 
 A weapon or shield with a usage die of a d4 requires 1 wealth, a d6 requires 2 wealth rolls, and so on.
-A weapon or shield which has one damage die (1d4, 1d6, etc) requires 1 wealth roll, a weapon with 2 damage dice requires 2 wealth rolls, and so on.
 
 {icon=wrench}
 G> #### Weapons and Pricing
@@ -250,7 +252,8 @@ G> You could make acquiring weapons cheaper by removing the usage die cost, but 
 
 - **Cheap:** Weapons with this quality never requires more than a single wealth roll to purchase but also never nets more than a single wealth roll when sold.
 - **Concealable:** Weapons with this quality are easy to conceal and can be hidden in your clothes and armor.
-- **Heavy:** Weapons with this quality count twice for encumbrance.
+- **Heavy:** Weapons with this quality count twice for encumbrance and do 2d4 damage.
+- **Light:** Weapons with this quality do not count for encumbrance and do 1d4 damage.
 - **Reach:** Weapons with this quality are longer than most, allowing you to keep an opponent at a distance, meaning they'll have to successfully close with you in order to use their weapon.
 - **Balanced:** Weapons with this quality are designed to be thrown and may be used against nearby targets in addition to close ones.
 - **Ranged:** Weapons with this quality are designed to shoot ammunition at an enemy who is distant or closer.
@@ -261,31 +264,30 @@ G> You could make acquiring weapons cheaper by removing the usage die cost, but 
 - **Slow (X):** Weapons with this quality are slow to reload and require X actions to reload.
 - **Fashionable:** Weapons with this quality makes relevant social tests one step easier - people perceive the wearer as more wealthy and high status.
 
-| Weapon              | Usage Die | Damage | Qualities                             | Value |
-|:--------------------|:---------:|:------:|:-------------------------------------:|:------|
-| Dagger              | d4        | 1d6    | Concealable, Cheap                    | 1
-| Sword               | d8        | 1d8    |                                       | 4
-| Spear               | d6        | 1d8    | Easily Repairable, Balanced, Reach    | 3
-| Halberd             | d6        | 2d6    | Easily Repairable, Encumbering        | 4
-| Pike                | d6        | 1d10   | Easily Repairable, Encumbering, Reach | 3
-| Throwing Dagger     | d4        | 1d4    | Concealable, Balanced                 | 2
-| Khopesh             | d8        | 1d8    | Fashionable                           | 4
-| Kopis               | d8        | 1d10   | Fashionable                           | 4
-| Mace                | d10       | 2d4    | Expensive                             | 6
-| Club                | d6        | 1d6    | Cheap                                 | 3
-| Handaxe             | d8        | 1d8    | Balanced                              | 4
-| Greataxe            | d8        | 2d6    | Encumbering                           | 5
-| Buckler             | d6        | 1d4    | Shield                                | 3
-| Round Shield        | d8        | 1d6    | Shield                                | 4
-| Figure Eight Shield | d10       | 1d8    | Shield, Encumbering                   | 5
-| Tower Shield        | d12       | 1d8    | Shield, Heavy, Encumbering            | 6
-| Shortbow            | d4        | 1d8    | Ranged                                | 2
-| Longbow             | d6        | 2d6    | Ranged                                | 4
-| Light Crossbow      | d6        | 2d4    | Ranged, Slow (2)                      | 4
-| Heavy Crossbow      | d8        | 2d8    | Ranged, Slow (4)                      | 4
-| Hand Crossbow       | d4        | 1d6    | Ranged, Slow (2)                      | 2
-| Repeating Crossbow  | d4        | 1d8    | Ranged                                | 2
-| Sling               | -         | 1d10   | Ranged, Cheap                         | 1
+| Weapon              | Usage Die | Qualities                             | Value |
+|:--------------------|:---------:|:-------------------------------------:|:------|
+| Dagger              | d6        | Concealable, Cheap, Light             | 1
+| Sword               | d8        |                                       | 3
+| Spear               | d6        | Easily Repairable, Balanced, Reach    | 2
+| Halberd             | d6        | Easily Repairable, Encumbering        | 2
+| Pike                | d6        | Easily Repairable, Encumbering, Reach | 2
+| Throwing Dagger     | d4        | Concealable, Balanced, Light          | 1
+| Khopesh             | d8        | Fashionable                           | 4
+| Kopis               | d8        | Fashionable                           | 4
+| Mace                | d10       | Expensive                             | 5
+| Club                | d6        | Cheap                                 | 1
+| Handaxe             | d8        | Balanced                              | 3
+| Greataxe            | d8        | Encumbering                           | 3
+| Buckler             | d6        | Shield                                | 2
+| Round Shield        | d8        | Shield                                | 3
+| Figure Eight Shield | d10       | Shield, Encumbering                   | 4
+| Tower Shield        | d12       | Shield, Heavy, Encumbering            | 5
+| Recurve Bow         | d4        | Ranged                                | 1
+| Crossbow            | d6        | Ranged, Slow (2)                      | 2
+| Heavy Crossbow      | d8        | Ranged, Slow (4), Heavy               | 3
+| Hand Crossbow       | d4        | Ranged, Slow (2), Light               | 1
+| Repeating Crossbow  | d4        | Ranged                                | 1
+| Sling               | -         | Ranged, Cheap                         | 1
 
 ### Masterwork and Magic Weapons
 
@@ -298,23 +300,23 @@ G> #### Examples of Magic Weapons
 G>
 G> Here a few examples of magical armor created by artisans:
 G>
-G> - **Spireblade:** d12 usage, 2d4 damage, Fashionable (7 wealth rolls).
+G> - **Spireblade:** d12 usage, Fashionable (6 wealth rolls).
 G>   This elegant bronze blade has been lovingly crafted by a spire artisan and has the Spire's name engraved into it.
 G>   The handle is wrapped in sharksin and the pommel is polished crystal which glows ever so slightly.
-G> - **Mageglass Dagger:** d8 usage, 1d6 damage, Expensive (6 wealth rolls).
+G> - **Mageglass Dagger:** d8 usage, Expensive (5 wealth rolls).
 G>   This blackglass dagger is born of stone from the heart of a volcano, the handle wrapped in silver silk.
 G>   It functions as a dagger against most opponents, but against demons it deals triple damage.
-G> - **Storm Spear:** d8 usage, 1d12 damage (5 wealth rolls).
+G> - **Storm Spear:** d8 usage (4 wealth rolls).
 G>   This spear's shaft is made from a dark hardwood, the head of the spear gleams in the light and the whole thing vibrates slightly during stormy weather.
-G>   When thrown the spear becomes a bolt of lightning dealing 2d8 damage and returning to the wielder's hand at the beginning of the next moment but the usage die automatically decreases one step.
-G> - **Mirror Shield:** d12 usage, 1d6 damage (7 wealth rolls).
+G>   When thrown the spear becomes a bolt of lightning dealing 2d4 damage, returning to the wielder's hand at the beginning of the next moment, and automatically decreases the Storm Spear's usage die by one step.
+G> - **Mirror Shield:** d12 usage, (6 wealth rolls).
 G>   This round shield is polished to a literal mirror sheen and has small runes inscribed around the edges in a tiny iron rim.
 G>   In addition to blocking normal attacks, this shield can be used to reflect magic attacks back at an enemy.
 G>   When using the shield this way, reduce the usage die by one step as if blocking an attack.
-G> - **Sniper Sling:** 2d8 (three wealth rolls).
+G> - **Sniper Sling:** No usage die (two wealth rolls).
 G>   This sling is innocuous except for the black stitching weaving through it.
 G>   This sling may be used against any enemy who can be seen, no matter the range.
-G> - **Majestic Trout:** 1d8 usage, 2d6 damage (6 wealth rolls).
+G> - **Majestic Trout:** 1d8 usage (4 wealth rolls).
 G>   This solid bronze statue of a trout with its mouth agape flops in the hand, acting as something akin to a flail.
 G>   Attacks with the majestic trout cannot be parried, only blocked or dodged.
 
@@ -322,7 +324,7 @@ G>   Attacks with the majestic trout cannot be parried, only blocked or dodged.
 
 | Item                     | Usage Die | Notes |
 |:-------------------------|:---------:|:------|
-| Backpack                 |     -     | Carry +2 extra
+| Backpack                 |     -     | Carry +5 extra
 | Flask of Oil             |    d6     | -
 | Tools                    |     -     | Related tests are one step easier
 | Lantern                  |     -     | -
@@ -344,12 +346,12 @@ G>   Attacks with the majestic trout cannot be parried, only blocked or dodged.
 | Inkpot                   |    d6     | Roll once per scroll scribed
 | Blank Scroll             |     -     | -
 | Empty Bottle             |     -     | -
-| Iron Token               |    d6     | Opposed Tests against demons are one step easier, degrade usage to repel them and deal 2d12 damage
+| Iron Token               |    d6     | Opposed Tests against demons are one step easier, degrade usage to repel them and deal 2d8 damage
 | Incense                  |    d8     | -
 | Abacus                   |     -     | -
 | Chalk                    |    d6     | -
 | Saddle                   |     -     | -
-| Saddlebag                |     -     | Carry +5 extra
+| Saddlebag                |     -     | Carry +10 extra
 
 ## Starting Equipment
 
