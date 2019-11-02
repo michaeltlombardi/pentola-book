@@ -6,6 +6,11 @@ Characters each have a vocation - a calling or an occupation to which a characte
 
 Whenever your character is faced with a test which can be reasonably argued to be relevant to their vocation you may add your vocation bonus to the test's goal.
 
+Every character begins play with a single vocation at 25% and can optionally acquire a second vocation later by spending five IP.
+No character can have more than two vocations at a single time.
+
+If you want to trade one of your vocations for another, you can do so freely, though the bonus resets to 25%.
+
 {icon=dice-d20}
 G> #### Using Vocations
 G>
@@ -19,15 +24,12 @@ G> In cases where she _does_ have a relevant skill, she can choose to use whiche
 {icon=wrench}
 G> #### Vocations and Intended Function
 G>
-G> Vocations are a sort of fall-back option, they should never be the first-choice for a test.
+G> Vocations are a sort of fall-back option, they should rarely be the first-choice for a test.
 G> Character specialization is described by their _skills_, vocations act as surety that characters don't fail at things in their primary domain.
 G>
 G> You can do entirely away with skills and just rely on vocations, but be aware that this reduces the number of knobs and levers available.
 G>
 G> One thing you can do is increase the IP cost of raising a vocation to offset the temptation to use it for everything (if you find that to be a problem).
-
-Every character begins play with a single vocation at 25% and can optionally acquire a second vocation later by spending five IP.
-No character can have more than two vocations at a single time.
 
 A> #### Improvement points (IP)
 A>
@@ -35,68 +37,57 @@ A> Improvement Points, also called IP, are the currency by which your characters
 A> You gain IP by fulfilling ambitions, protecting dependents, and thwarting enemies.
 A> These activities are covered more fully in later chapters.
 
-If you want to trade one of your vocations for another, you can do so freely, though the bonus resets to 25%.
-
 You can write your own vocation, roll to determine your vocation based on the table below, or choose a vocation that you think fits your character.
 
-| d100 Result | Vocation       | d100 Result | Vocation       |
-|:-----------:|:--------------:|:-----------:|:--------------:|
-|     01      | Acrobat        |     51      | Hatter         |
-|     02      | Actor          |     52      | Historian      |
-|     03      | Alchemist      |     53      | Illuminator    |
-|     04      | Apothecary     |     54      | Inventor       |
-|     05      | Archaeologist  |     55      | Investigator   |
-|     06      | Archer         |     56      | Jester         |
-|     07      | Architect      |     57      | Jeweler        |
-|     08      | Aristocrat     |     58      | Journalist     |
-|     09      | Artist         |     59      | Judge          |
-|     10      | Assassin       |     60      | Lawyer         |
-|     11      | Automator      |     61      | Librarian      |
-|     12      | Barber         |     62      | Linguist       |
-|     13      | Barrister      |     63      | Locksmith      |
-|     14      | Bodyguard      |     64      | Mason          |
-|     15      | Bookbinder     |     65      | Mercenary      |
-|     16      | Bounty Hunter  |     66      | Merchant       |
-|     17      | Brewer         |     67      | Mortician      |
-|     18      | Butcher        |     68      | Notary         |
-|     19      | Canal Purifier |     69      | Prostitute     |
-|     20      | Carpenter      |     70      | Politician     |
-|     21      | Cartographer   |     71      | Preacher       |
-|     22      | Cleric         |     72      | Priest         |
-|     23      | Clock Maker    |     73      | Printer        |
-|     24      | Cobbler        |     74      | Privateer      |
-|     25      | Cook           |     75      | Procurer       |
-|     26      | Cooper         |     76      | Performer      |
-|     27      | Courtesan      |     77      | Reeve          |
-|     28      | Cutler         |     78      | Researcher     |
-|     29      | Cutpurse       |     79      | Retainer       |
-|     30      | Dancer         |     80      | Saddler        |
-|     31      | Dentist        |     81      | Sailor         |
-|     32      | Diabolist      |     82      | Scribe         |
-|     33      | Diplomat       |     83      | Sculptor       |
-|     34      | Drake Jockey   |     84      | Smith          |
-|     35      | Duellist       |     85      | Soldier        |
-|     36      | Enchanter      |     86      | Spelunker      |
-|     37      | Exorcist       |     87      | Spirit Binder  |
-|     38      | Explorer       |     88      | Spy            |
-|     39      | Falconer       |     99      | Summoner       |
-|     40      | Fencer         |     90      | Surgeon        |
-|     41      | Firefighter    |     91      | Tailor         |
-|     42      | Fisher         |     92      | Teacher        |
-|     43      | Florist        |     93      | Thief          |
-|     44      | Fortuneteller  |     94      | Torturer       |
-|     45      | Gardener       |     95      | Toymaker       |
-|     46      | Gladiator      |     96      | Tutor          |
-|     47      | Glider         |     97      | Vatter         |
-|     48      | Gondolier      |     98      | Weaver         |
-|     49      | Grocer         |     99      | Wizard         |
-|     50      | Guard          |     00      | Writer         |
+| d100 Result | Vocation       | d100 Result | Vocation       | d100 Result | Vocation       | d100 Result | Vocation       |
+|:-----------:|:--------------:|:-----------:|:--------------:|:-----------:|:--------------:|:-----------:|:--------------:|
+|     01      | Acrobat        |     26      | Cooper         |     51      | Hatter         |     76      | Performer      |
+|     02      | Actor          |     27      | Courtesan      |     52      | Historian      |     77      | Reeve          |
+|     03      | Alchemist      |     28      | Cutler         |     53      | Illuminator    |     78      | Researcher     |
+|     04      | Apothecary     |     29      | Cutpurse       |     54      | Inventor       |     79      | Retainer       |
+|     05      | Archaeologist  |     30      | Dancer         |     55      | Investigator   |     80      | Saddler        |
+|     06      | Archer         |     31      | Dentist        |     56      | Jester         |     81      | Sailor         |
+|     07      | Architect      |     32      | Diabolist      |     57      | Jeweler        |     82      | Scribe         |
+|     08      | Aristocrat     |     33      | Diplomat       |     58      | Journalist     |     83      | Sculptor       |
+|     09      | Artist         |     34      | Drake Jockey   |     59      | Judge          |     84      | Smith          |
+|     10      | Assassin       |     35      | Duellist       |     60      | Lawyer         |     85      | Soldier        |
+|     11      | Automator      |     36      | Enchanter      |     61      | Librarian      |     86      | Spelunker      |
+|     12      | Barber         |     37      | Exorcist       |     62      | Linguist       |     87      | Spirit Binder  |
+|     13      | Barrister      |     38      | Explorer       |     63      | Locksmith      |     88      | Spy            |
+|     14      | Bodyguard      |     39      | Falconer       |     64      | Mason          |     89      | Summoner       |
+|     15      | Bookbinder     |     40      | Fencer         |     65      | Mercenary      |     90      | Surgeon        |
+|     16      | Bounty Hunter  |     41      | Firefighter    |     66      | Merchant       |     91      | Tailor         |
+|     17      | Brewer         |     42      | Fisher         |     67      | Mortician      |     92      | Teacher        |
+|     18      | Butcher        |     43      | Florist        |     68      | Notary         |     93      | Thief          |
+|     19      | Canal Purifier |     44      | Fortuneteller  |     69      | Prostitute     |     94      | Torturer       |
+|     20      | Carpenter      |     45      | Gardener       |     70      | Politician     |     95      | Toymaker       |
+|     21      | Cartographer   |     46      | Gladiator      |     71      | Preacher       |     96      | Tutor          |
+|     22      | Cleric         |     47      | Glider         |     72      | Priest         |     97      | Vatter         |
+|     23      | Clock Maker    |     48      | Gondolier      |     73      | Printer        |     98      | Weaver         |
+|     24      | Cobbler        |     49      | Grocer         |     74      | Privateer      |     99      | Wizard         |
+|     25      | Cook           |     50      | Guard          |     75      | Procurer       |    100      | Writer         |
 
 ## Choosing Skills
 
 Skills are things a character specializes in doing.
-At the beginning of play, a character has 250 percentage points to spend on skills, where each point grants the character a +1% chance of success to related actions.
 In cases where a character has both a vocation _and/or_ one or more skills which could apply to action, use whichever bonus is higher.
+After a character successfully passes a normal or hard test against a skill, place a mark to the right of the skill.
+During the next down time between adventures, roll a d100 for each skill with such a mark; if the result is greater than your current skill bonus, increase your bonus by 3.
+In either case, erase the mark.
+
+{icon=dice-d20}
+G> #### Increasing Skills Through Use
+G>
+G> The rule as written allows characters to increase their skills through use, though slowly.
+G> It's also designed to prvent spamming the same skill over and over as a solution to all problems as you mark it only once per adventure.
+G> As discussed at the end of this chapter in the section on [Improvement Points](./j-improvement-points.md), you can also improve your skills by training and spending IP.
+G> Use isn't the only way to improve your character's skills but it's the only way to do so without spending downtime/IP.
+
+At the beginning of play, a character has 250 percentage points to spend on skills, where each point grants the character a +1% chance of success to related actions.
+
+In Pentola there is no defined skill list, but here are a few examples for inspiration:
+
+> Dodge, Archery, Fencing, Culture (Gascon), Alchemy, Athletics, Driving, Bluffing, Persuasion, Rhetoric, Mechanisms, Streetwise, Trade, Literacy (Pentolan), Occult Lore, Medicine, Wrestling, Painting, Swimming, Thaumaturgy, Drakeback Riding, Herbalism, Mathematics, Goldsmithing, Scultping, Researching, Stealth, Haggling, Literacy (Aydinlar), etc.
 
 {icon=dice-d20}
 G> #### Skill and Vocation Bonuses in Action
@@ -120,9 +111,26 @@ G> Scenario 4: Appraising Art
 G>
 G> In this case, only Tarasi's Appraisal skill applies to this action, so she would add that bonus to this test.
 
-In Pentola there is no defined skill list, but here are a few examples for inspiration:
-
-> Dodge, Archery, Fencing, Culture (Gascon), Alchemy, Athletics, Driving, Bluffing, Persuasion, Rhetoric, Mechanisms, Streetwise, Trade, Literacy (Pentolan), Occult Lore, Medicine, Wrestling, Painting, Swimming, Thaumaturgy, Drakeback Riding, Herbalism, Mathematics, Goldsmithing, Scultping, Researching, Stealth, Haggling, Literacy (Aydinlar), etc.
+A> #### Archetype Skills
+A>
+A> If you're unsure of what sort of character you'd like to play mechanically, you may choose to roll for an archetype on the table below or select one freely.
+A>
+A> Instead of having 250 points to spend on skills, you gain the skills listed for your archetype and have 50 points left to distribute.
+A>
+A> | d10 result |    Archetype    | Skills (Bonus %) |
+A> |:----------:|:---------------:|:-----------------|
+A> |      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Bluster (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), Dodge (20), and Crafting (10).
+A> |      2     | Archer          | Marksman (35), Athletics (35), Perception (30), Streetwise (20), Haggling (20), Fletching (20), Hunting (20), Stealth (20), and Crafting (10).
+A> |      3     | Thief           | Stealth (35), Acrobatics (35), Streetwise (30), Pickpocket (20), Lockpicking (20), Perception (20), Reconnaissance (20), Marksman (20), and Crafting (10).
+A> |      4     | Alchemist       | Alchemy (35), Research (35), Trade (30), Crafting (30), Literacy [Pentolan] (20), Nature Lore (20), Medicine (20), and Appraisal (20).
+A> |      5     | Priest          | Persuasion (35), Religious Lore (35), Diabolism (30), Crafting (30), Investigation (20), Literacy [Pentolan] (20), Occult Lore (20), and Alchemy (20).
+A> |      6     | Mage            | Crafting (45), Literacy [Pentolan] (35), Researching (30), Alchemy (20), Occult Lore (20), Diabolism (20), Dodge (20), and Appraisal (20).
+A> |      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Rhetoric (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), Swimming (20), and Crafting (10).
+A> |      8     | Con Artist      | Bluff (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), Brawling (20), and Crafting (10).
+A> |      9     | Artist          | Crafting (45), Sculpting (35), Trade (30), Research (20), Mechanisms (20), Alchemy (20), Literacy [Pentolan] (20), and Drawing (20). _May trade Sculpting and Drawing for any other types of art._
+A> |     10     | Leader          | Persuasion (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), Dodge (20), and Crafting (10).
+A>
+A> _Note that this includes the automatic 10% skill bonus in Crafting every Pentolan starts with._
 
 {icon=wrench}
 G> #### Skills and Ambiguity
@@ -147,25 +155,6 @@ G> Knowledge of medicine might help you set a bone or identify an illness or det
 G> Similarly, expertise in wrestling will convey knowledge about things outside of being able to grapple - they'll pick up kinesiology, reading people, etc.
 G> Reward characters for specializing!
 G>
-G> If a character is has a 25% in a skill, consider that they automatically know anything an apprentice in that field might know. For everything else, make them test.
-G> If a character has a 50% in a skill, consider that they automatically know anything a seasoned professional in that field might know. For everything else, make them test.
-G> If a character has a 75% in a skill, consider that they automatically know anything about their field that isn't hidden, unique, or otherwise very hard to discover. For everything else, make them test.
-
-### Archetype Skills
-
-If you're unsure of what sort of character you'd like to play mechanically, you may choose to roll for an archetype on the table below or select one freely.
-
-Instead of having 250 points to spend on skills, you gain the skills listed for your archetype and have 50 points left to distribute.
-
-| d10 result |    Archetype    | Skills (Bonus %) |
-|:----------:|:---------------:|:-----------------|
-|      1     | Sword and Board | Sword and Buckler (35), Athletics (35), Bluster (30), Streetwise (20), Haggling (20), Swimming (20), Military Lore (20), Heraldry (20), and Dodge (20).
-|      2     | Archer          | Marksman (35), Athletics (35), Perception (30), Streetwise (20), Haggling (20), Fletching (20), Hunting (20), and Stealth (20).
-|      3     | Thief           | Stealth (35), Acrobatics (35), Streetwise (30), Pickpocket (20), Lockpicking (20), Perception (20), Reconnaissance (20), and Marksman (20).
-|      4     | Alchemist       | Alchemy (35), Research (35), Trade (30), Literacy [Pentolan] (20), Crafting (20), Nature Lore (20), Medicine (20), and Appraisal (20).
-|      5     | Priest          | Persuasion (35), Religious Lore (35), Diabolism (30), Crafting (20), Investigation (20), Literacy (20), Occult Lore (20), and Alchemy (20).
-|      6     | Mage            | Crafting (35), Literacy [Pentolan] (35), Researching (30), Alchemy (20), Occult Lore (20), Diabolism (20), Dodge (20), and Appraisal (20).
-|      7     | Knight          | Sword and Buckler (35), Drakerider (35), Marksmanship (30), Rhetoric (20), Trade (20), Literacy [Pentolan] (20), Heraldry (20), and Swimming (20).
-|      8     | Con Artist      | Bluff (35), Streetwise (35), Deception (30), Legal Lore (20), Appraisal (20), Mechanisms (20), Haggling (20), and Brawling (20).
-|      9     | Artist          | Crafting (35), Sculpting (35), Trade (30), Research (20), Mechanisms (20), Alchemy (20), Literacy [Pentolan] (20), and Drawing (20). May trade Sculpting for any other type of art.
-|     10     | Leader          | Persuasion (35), Diplomacy (35), Politics (30), Legal Lore (20), Literacy [Pentolan] (20), Investigation (20), Sword and Buckler (20), and Dodge (20).
+G> If a character's skill ranking is comprehensive, consider that they automatically know anything an apprentice in that field might know. For everything else, make them test.
+G> If a character's skill ranking is extraordinary, consider that they automatically know anything a seasoned professional in that field might know. For everything else, make them test.
+G> If a character's skill ranking is incredible or unbelievable, consider that they automatically know anything about their field that isn't hidden, unique, or otherwise very hard to discover. For everything else, make them test.

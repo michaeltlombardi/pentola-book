@@ -18,7 +18,7 @@ Whenever a miracle is performed, there will always be a sight and sound that nea
 The exact effects are up to the referee and player to decide but will automatically be detected by any creatures who are nearby.
 
 Performing a miracle is automatically successful.
-No dice need be rolled, no chance of a fumble or critical either.
+No dice need be rolled, no chance of a botch or critical either.
 Miracles do not cost any PP and always take only a single action to perform.
 
 A character can dismiss any miracle they have performed as a single action.
@@ -69,9 +69,9 @@ The character need not spend any improvement points to regain their miracles.
 - **Progressive:** This indicates that the miracle can be acquired and performed at greater levels of Magnitude than the minimum.
 - **Ranged (X):** Ranged miracles may be cast upon targets up to the distance increment specified.
 - **Resist:** The miracle's effects do not take effect automatically.
-  The target may make a hard opposed POW test in order to avoid the effect of the miracle entirely.
+  The target may make a hard opposed Iron test in order to avoid the effect of the miracle entirely.
 - **Dodge:** The miracle's effects do not take effect automatically.
-  The target may make a hard opposed test (their BOD vs the supplicant's POW) in order to avoid the effect of the miracle entirely.
+  The target may make a hard opposed test (their Bone vs the supplicant's Iron) in order to avoid the effect of the miracle entirely.
   Note that the target must be able to use their reaction in order to dodge.
   In the case of area miracles, the Dodge trait requires the target to dive in order to mitigate the miracle's effect.
 - **Touch:** Touch miracles require the character to actually touch their target for the miracle to take effect.
@@ -88,7 +88,7 @@ The character need not spend any improvement points to regain their miracles.
 | Burden             | Duration (1 day), Resist, Magnitude 2                          | The target is crushed under the weight of this miracle as though carrying the heaviest load they are capable of.
 | Command            | Permanent, Progressive, Resist                                 | The target is compelled to carry out the letter of a given command to the best of their ability - they are free to interpret it in their own interests. For each point of magnitude the command may contain one additional word.
 | Compel Truth       | Concentration, Magnitude 3, Resist                             | The target cannot knowingly speak any falsehoods for the duration and must give as much and complete an accounting as they are capable of.
-| Conflagrate        | Progressive, Area (Nearby), Ranged (Far), Dodge, Concentration | An area within range ignites with a flame wrought of pure power, consuming 3d4HP and PP each moment while it burns.
+| Conflagrate        | Progressive, Area (Nearby), Ranged (Far), Dodge, Concentration | An area within range ignites with a flame wrought of pure power, consuming 1d4HP and PP each moment while it burns.
 | Control Weather    | Magnitude 5, Area (Far)                                        | The supplicant is able to control the weather for as far as they can see, summoning or dismissing storms, wind, and clouds.
 | Deny               | Progressive, Instant                                           | The supplicant can use this miracle in response to any other being channelled to disrupt it - if successful, the targeted supplicant counts as having channeled the miracle for all purposes but no effects manifest.
 | Dismiss Magic      | Progressive, Instant                                           | The supplicant can use this miracle to end the effects of any and all other magics on a target which have a lower magnitude.
@@ -97,7 +97,7 @@ The character need not spend any improvement points to regain their miracles.
 | Drown              | Concentration, Resist, Magnitude 3                             | For the duration of this miracle the target drowns on dry land, their lungs filling with liquid no matter how hard they try to breathe.
 | Endless Hunger     | Permanent, Resist, Magnitude 2                                 | No matter what the target eats, they will forever suffer from hunger pains as though their last meal was before this miracle took effect.
 | Excommunicate      | Permanent, Resist                                              | When channeled upon a member of the same organization this miracle cuts them off entirely from their miracles and knacks until they get another grantor to apply the ritual of supplication to them again.
-| Exsanguinate       | Duration (1 minute), Touch, Resist, Magnitude 5                | For one minute after this miracle is channeled the target bleeds profusely from every orifice and sweats blood, losing 1d6 HP / moment.
+| Exsanguinate       | Duration (1 minute), Touch, Resist, Magnitude 5                | For one minute after this miracle is channeled the target bleeds profusely from every orifice and sweats blood, losing 1d4 HP / moment.
 | Glassheart         | Duration (M hours), Progressive, Resist                         | For the duration the target is particularly prone to fear and frayed nerves, breaking under the slightest pressure. All opposed tests are one step harder for the duration.
 | Gravetouch         | Permanent, Magnitude 5, Resist                                 | Death comes for the target once this miracle has been channeled upon them; they take double damage from all sources and find all combat tests one step harder.
 | Hear Truth         | Concentration                                                  | For the duration the supplicant will know whether anyone speaking is telling the truth or being intentionally misleading.
@@ -122,9 +122,9 @@ The character need not spend any improvement points to regain their miracles.
 | Reveal Magic       | Instant, Duration (10 minutes) Area (nearby), Magnitude 2      | This miracle will immediately make all magic effects in the area obvious to the supplicant, causing them to glow visibly and granting perfect knowledge of those effects.
 | Shape Flesh        | Concentration, Resist, Magnitude 4                             | The flesh of the target becomes as soft clay to the supplicant, allowing them to reshape it as they desire. When the miracle ends, the flesh is set to whatever form chosen.
 | Shield             | Duration (1 hour), Touch, Progressive                          | Each point of magnitude for this defensive miracle grants the target protection from all incoming effects and attacks, granting M AP and ensuring all incoming magic effects with a magnitude lower than the shield's slough off around the target harmlessly.
-| Skysmite           | Instant, Magnitude 2, Progressive, Range (Distant), Dodge      | For each point of magnitude the supplicant can direct another bolt of lighting at a target they can see who is outside, dealing 3d8 lightning damage.
+| Skysmite           | Instant, Magnitude 2, Progressive, Range (Distant), Dodge      | For each point of magnitude the supplicant can direct another bolt of lighting at a target they can see who is outside, dealing 1d8 lightning damage.
 | Slag               | Instant, Range (Nearby), Dodge, Progressive                    | For each point of magnitude the supplicant can cause another metal object in range instantly heat past it's melting point, liquifying violently, by sending a gently glowing bolt of energy at the item.
-| Sunspear           | Instant, Range (Distant), Dodge, Magnitude 3                   | A shaft of bright light appears in the supplicant's hand which can be thrown or stabbed into a target, dealing 5d4 damage as if struck by a lance of energy from a solar flare.
+| Sunspear           | Instant, Range (Distant), Dodge, Magnitude 3                   | A shaft of bright light appears in the supplicant's hand which can be thrown or stabbed into a target, dealing 3d6 damage as if struck by a lance of energy from a solar flare.
 | Terrify            | Concentration, Resist, Magnitude 2                             | For the duration, all who behold the supplicant are subject to abject and utter terror of the supplicant, also making all opposed tests one step harder against the supplicant.
 | Trade Luck         | Permanent, Resist, Progressive                                 | For each point of magnitude the supplicant can trade luck with the target - if the supplicant _grants_ the target their luck, the target will treat their next hard test as an easy one and the supplicant will treat their next easy test as a hard one. If the supplicant _takes_ the target's luck, the target will treat their next easy test as a hard one and the supplicant will treat their next hard test as an easy one. For every point of magnitude this effect impacts an additional test.
 | Tremble            | Permanent, Touch, Resist, Magnitude 3                          | This miracle inflicts terrible and continuous tremors in the target's muscles, making all physical tests one step harder.
