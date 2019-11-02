@@ -32,7 +32,7 @@ Additionally, they must invest 5 IP.
 Upon becoming a Principal the character gains a powerful gift from the organization.
 This gift is a combination of the changes in the character over the course of becoming a principal and the power that is placed in them on behalf of the organization.
 
-The character immediately gains 6 magnitude worth of organizational knacks and 3 magnitude worth of Miracles and their INT and POW both increase by three.
+The character immediately gains 6 magnitude worth of organizational knacks and 3 magnitude worth of Miracles and their Flax and Iron both increase by three.
 
 However, if the Principal ever takes an action that offends the organization, they lose twice as many IP as normal and cannot gain new improvement points from the organization until they've fulfilled a quest of repentence which directly benefits the organization.
 

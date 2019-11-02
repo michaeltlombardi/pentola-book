@@ -8,9 +8,9 @@ The traits used by dweomers are detailed below.
   The dweomer itself then disappears.
 - **Permanent:** The dweomer's effects remain in place until they are dispelled or dismissed, instead of the duration being determined via manipulation.
 - **Resist:** The dweomer's effects do not take effect automatically.
-  The target may make an opposed POW test in order to avoid the effect of the dweomer entirely.
+  The target may make an opposed Iron test in order to avoid the effect of the dweomer entirely.
 - **Dodge:** The dweomer's effects do not take effect automatically.
-  The target may make an opposed test (their BOD vs the crafter's POW) in order to avoid the effect of the dweomer entirely.
+  The target may make an opposed test (their Bone vs the crafter's Iron) in order to avoid the effect of the dweomer entirely.
   Note that the target must be able to use their reaction in order to dodge.
   In the case of area dweomers, the Dodge trait requires the target to dive in order to mitigate the dweomer's effect.
 - **Touch:** Touch dweomers require the character to actually touch his target for the dweomer to take effect, instead of the range being determined via manipulation.
@@ -21,6 +21,7 @@ The traits used by dweomers are detailed below.
 There is a long, long list of known dweomers whose application is known as a formula, repeatable and recognizable no matter the crafter applying it.
 
 When creating a new character, roll once on the following table per full 10% bonus you have in the Crafting skill (or pick from the list).
+You start with those dweomers at a 5% bonus and can apply them as an action, if you choose.
 
 Note that many dweomers have two opposite uses (such as _Holdfast / Repel_): if a crafter learns this dweomer they can choose which of the two ways they wish to apply it _at_ application.
 
@@ -34,7 +35,7 @@ In the case of _Illusory Sense_, there's a series of dweomers, each of which the
 - Illusory Touch
 - Illusory Sound
 
-Use your best judgement for which values fit a particular dweomer (referr has final say).
+Use your best judgement for which values fit a particular dweomer (referee, as usual, has final say).
 
 {icon=wrench}
 G> #### Creative Uses
@@ -59,7 +60,7 @@ G> If there's an effect which makes sense given the dweomer's description the re
 |   21-22   | Corrode (Substance)          | Permanent                    | Cause a particular inorganic substance to rapidly lose structural integrity.
 |   23-24   | Counterdweomer               | Reaction                     | Reactively ullify the effects of a dweomer being applied.
 |   25-26   | Create Charm                 | Permanent                    | Store **M PP** into a valuable item for later use (must spend **M PP** as well); make refillable by spending **1 IP**.
-|   27-28   | Create Echo                  | Permanent                    | Combine with another dweomer to store an echo into a single one-use item which can, with a crafting test, be released later.
+|   27-28   | Create Ephemer               | Permanent                    | Combine with another dweomer to store into a single one-use item which can, with a crafting test, be released later.
 |   29-30   | Create Matrix                | Permanent                    | Create an item which contains a M dweomers and allows the wielder to apply and manipulate them using your Crafting skill bonus; Make reusable by spending **M IP**.
 |   31-32   | Demoralize / Galvanize       | Resist, Concentration        | Sew doubt and uncertainty or confidence and aggression into targets, making all combat tests one step harder/easier.
 |   33-34   | Dominate (Species)           | Resist, Concentration        | Gain control over targets of a particular species who must obey your commands for the duration via a telepathic (language dependent) link.
@@ -123,7 +124,6 @@ In either case, these activities involve experimentation, reading, and extensive
 Each dweomer researched requires making one or more experiments, each of which require:
 
 1. A full day's worth of work to prepare and attempt without distractions
-1. A wealth test for related items and safety protocols
 1. A successful crafting test
    - The test is one step harder if being researched without notes or materials defining the dweomer.
    - The test is one step easier if being aided by someone else who knows the dweomer.
@@ -135,17 +135,16 @@ On a result of a 2-3 the same experiment may be repeated with the difficulty one
 {icon=dice-d20}
 G> #### Example: Researching a Dweomer
 G>
-G> Karacter wants to learn how to apply a dweomer they saw referenced once in the biography of a mage - the effect was described as "filling the room with thunder and shaking the very stones apart with voice alone."
+G> Taryn wants to learn how to apply a dweomer they saw referenced once in the biography of a mage - the effect was described as "filling the room with thunder and shaking the very stones apart with voice alone."
 G>
 G> Between the player and referee, the effect is determined to be the infliction of M damage caused by sonic waves from the crafter and which has a 10% chance per M to destroy solid objects which it comes in contact with.
 G>
-G> Karacter aquires chalk, pen, ink, and other materials for the experiment, making a wealth test for the lot.
-G> They then spend two half-days preparing for the experiment (Karacter has work, they can't just skip it to learn a dweomer).
-G> Finally, Karacter is ready to try the experiment and makes a hard Crafting test and succeeds.
-G> Karacter rolls a d4 with a result of a 2 - though they didn't learn everything they needed to from the experiment, Karacter can repeat it after another day's preparation without it being a hard test.
+G> They then spend two half-days preparing for the experiment (Taryn has work, they can't just skip it to learn a dweomer).
+G> Then Taryn is ready to try the experiment and makes a hard Crafting test and succeeds.
+G> Taryn rolls a d4 with a result of a 2 - though they didn't learn everything they needed to from the experiment, Taryn can repeat it after another day's preparation without it being a hard test.
 G>
-G> Two days later, Karacter tries again and succeeds in the experiment, rolling a d4 and getting a 4!
-G> Karacter has successfully learned _Thunderspeech_, a new dweomer which allows Karacter to project their voice to destroy obstacles and injure enemies.
+G> Two days later, Taryn tries again and succeeds in the experiment, rolling a d4 and getting a 4!
+G> Taryn has successfully learned _Thunderspeech_, a new dweomer which allows Taryn to project their voice to destroy obstacles and injure enemies.
 
 {icon=wrench}
 G> #### Researching and Balance
@@ -155,6 +154,17 @@ G>
 G> The common formulaic dweomers are as generalized as dweomers should get.
 G>
 G> If you'd like to make learning dweomers easier and faster, you could just allow a crafter to learn a new one by spending 1IP.
+G>
+G> Note also that the way the rules are written it's mostly a matter of time until the crafter learns a dweomer, but it's not a steady march of progress.
+G> You could instead use clocks (a three section clock, or five, or whatever), and have each successful experiment advance the clock by one step.
+G>
+G> If implementing clocks, I suggest setting the clock size by crafter ranking:
+G>
+G> + 5 for basically skilled crafters
+G> + 4 for comprehensively skilled crafters
+G> + 3 for extraordinarily skilled crafters
+G> + 2 for incredibly  skilled crafters
+G> + 1 for unbelievably skilled crafters
 
 {icon=wrench}
 G> #### Converting OSR Spells

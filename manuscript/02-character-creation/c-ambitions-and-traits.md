@@ -5,10 +5,10 @@ The following sections give you a bit of background you can use to make your cha
 As with all of the other character creation tables, you are _not obligated_ to use them!
 You can roll on them, choose from them, make up traits of your own, or otherwise start play with something more of a blank slate.
 
-You must, however, start play with one long term ambition.
+You must, however, start play with one or two long term ambitions.
 
 Long term ambitions are things that are a character's motivation in life, only achievable over multiple adventures.
-Short term ambitions are usually relevant to the adventure currently being played and are determined near the beginning of each session.
+Short term ambitions are usually relevant to the adventure currently being played and are determined within the first hour of each session.
 Short term ambitions are removed from the character sheet at the end of each session.
 Ambitions are always removed from the character sheet when completed.
 
@@ -28,7 +28,7 @@ G> The accrual of IP by working to fulfill ambitions is an important mechanic in
 G> It emphasizes that characters grow by pursuing their own goals in the world, a reflection of the effect of magic upon them.
 G> As their ambitions are realized, their gestalt grows stronger and more defined.
 G>
-G> Note that characters accrue IP for working to fulfill their ambitions, not only for completing them.
+G> Note that characters accrue IP for working to fulfill their own ambitions and those of others in the group, not only for completing them.
 
 | d100 | Personality   | Physical          | Interests         | Fears                          | Ambitions |
 |:----:|:-------------:|:-----------------:|:-----------------:|:------------------------------:|:---------:|
@@ -134,9 +134,9 @@ G> Note that characters accrue IP for working to fulfill their ambitions, not on
 | 100  | Winning       | Wolfish Face      | Wrestling         | Wind                           | Write Successful Play
 
 {icon=dice-d20}
-G> #### Example: Determining Traits and Ambitions for Karacter
+G> #### Example: Determining Traits and Ambitions for Taryn
 G>
-G> For Karacter we roll once for each column in the traits table:
+G> For Taryn we roll once for each column in the traits table:
 G>
 G> - **Personality:** Contradictory (21)
 G> - **Physical Trait:** Narrow Eyes (56)
@@ -144,6 +144,6 @@ G> - **Interest:** Learning (58)
 G> - **Fear:** Drakes (33)
 G> - **Long Term Ambition:** Ward Off Demonic Threat Through Song (90)
 G>
-G> These traits paint an image of Karacter as a person eager to learn and always watchful, seeking truth by speaking up even when it's unwise.
+G> These traits paint an image of Taryn as a person eager to learn and always watchful, seeking truth by speaking up even when it's unwise.
 G> Their fear of Drakes makes their start as a would-be Knight more difficult _and_ interesting.
 G> The ambition to ward off Demons with a song implies that they have a curiosity about the _Gondolieri_ who are famous for abjuring the demons in the canals with their songs.

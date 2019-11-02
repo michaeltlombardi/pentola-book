@@ -5,27 +5,25 @@ The application of these rules to manipulate reality is known as the _Craft_, an
 
 Practitioners of the Craft develop in one of two ways:
 
-- The majority belong (at least initially) to academic institutions, which have their own books of dweomers and rules that they teach their apprentices.
+- The majority belong (at least initially) to academic institutions or other factions, which have their own books of dweomers and rules that they teach their apprentices.
 - There is a long tradition of crafters working in solitude, cut off from other crafters and society at large, to focus purely on their magical activities.
   Occasionally they take on an apprentice to teach their art or use as a helping hand around the magical laboratory.
 
 When Crafters apply their Craft, they do so in one of a few ways:
 
-1. Through known, formulaic applications involving equations and channeled thoughts, known as dweomers.
-   These dweomers are loosely equivalent to physics equations.
-1. Through known, formulaic applications involving ingredients and ceremony, known as alchemical potions.
+1. Through formulaic applications involving equations and channeled thoughts, known as dweomers.
+   These dweomers are loosely equivalent to physics equations or computer programs.
+1. Through formulaic applications involving ingredients and ceremony, known as alchemical formulae.
    Practitioners of the craft who specialize in applying it through items - potions, salves, powders, etc - are known as alchemists.
-1. Though the use of art and intention combined with knowledge of the craft to produce effects.
+1. Though the use of art and intention combined with knowledge of the craft to produce effects, known as the actualization of opuses.
    In Pentola there is little difference between art and magic - no distinction is made as the craft itself is considered an art.
-
-In all three types of applications, the formulae for manpulating magic in the world are known as dweomers.
 
 # Ranks
 
 There are three general ranks of crafters in Pentola, though specific organizations may have different ranks or requirements:
 
 - **Apprentice:** Students of the Craft who will only know a couple of dweomers, usually including Mystic Vision, whose Crafting skill bonus is at least 25%.
-  As well as being taught the Craft, they are expected to spend half of their time working for their tutors by performing menial tasks in their magical laboratories or other jobs that their masters consider beneath them.
+  As well as being taught the Craft, they are expected to spend half of their time working for their tutors by performing menial tasks in their magical laboratories or other jobs that their teachers don't have time for or which will help the students grow.
 - **Wright:** Graduates of an institution.
   They tend to know between five and ten dweomers, and have a Crafting skill bonus ranging from 50% to 90%.
   If a member of an organization, they will be expected to spend a third of their time performing duties for it, such as teaching apprentices or recovering lost magical knowledge.
@@ -33,18 +31,19 @@ There are three general ranks of crafters in Pentola, though specific organizati
   Magi specialize in dweomers, alchemists in alchemy, and artisans in art.
   They know at least ten dweomers and a have a Crafting skill bonus of 90% or higher.
   If a member of an academic organization then they will serve on its ruling body and have the complete resources of the organization at their command.
-  In return it is expected that they spend 90% of their time researching, teaching, and performing missions on the school's behalf.
+  In return they are expected to spend 90% of their time researching, teaching, and performing missions on their faction's behalf.
 
 # Learning the Craft
 
 Before a dweomer can be applied using Crafting, it must first be learned through research.
 In order to learn a particular dweomer, the character must possess the dweomer in written form, be taught it by a teacher, or discover it via experimentation.
 
-The character then spends two Improvement Points and writes the dweomer down on their character sheet.
-
-Each dweomer is governed by the Crafting skill.
+To apply the dweomer you must have either a written copy of it on hand or have memorized it and studied it enough to be able to apply it without a reference copy.
+To memorize a new dweomer you must spend 1 Improvement Point or [research](03-craft/a-dweomers.md#researching-dweomers) it.
+Doing so grants you that dweomer as a special skill at a base bonus of 5%.
 This skill may be improved normally though the use of Improvement Points and practice.
-Even non-Crafters have this skill, at a base bonus of 10%, since magic knowledge is widespread and simple spells are often used by normal folk - and nearly everyone in the civilized world interacts with magic items on occasion.
+
+All Crafters also have the Craft skill itself; even non-Crafters have this skill, at a base bonus of 10%, since magic knowledge is widespread and simple spells are often used by normal folk--and nearly everyone in the civilized world interacts with magic items on occasion.
 
 Once the dweomer has been learned, the character will be ready to try applying it.
 
@@ -56,23 +55,20 @@ Doing so, however, increases the complexity of the dweomer, a measure of how har
 Each effect has a default value which the dweomer can be applied at, starting at Complexity 1.
 The default value for the dweomer effects are listed in the Manipulation table below.
 
-The tens value of the character's Crafting skill bonus determines the maximum complexity that they can handle on each of the manipulation types.
-
-However, just because a crafter _can_ apply complex dweomers doesn't mean _it is safe to do so_.
-The total complexity of a dweomer is the amount of damage that will be inflicted if they fumble its application.
-
-A crafter can divert some of this damage by permanently reducing their power point total by one for each hit point they choose not to lose.
-The power points can be sourced from an item, but only one whose power point store is also permanent.
+The tens value of the character's crafting skill bonus determines the maximum complexity that they can handle on each of the manipulation types if applying as a ritual.
+If applying as an action, use the tens value of the dweomer's bonus instead.
 
 {icon=dice-d20}
 G> #### Example: Dweomer Complexity
 G>
-G> Alessia has an INT of 30, a crafting skill bonus of 65%, meaning she can handle a complexity of up to 6 on each of the dweomer's effects across magnitude, duration, and range.
+G> Alessia has a Flax of 30, a Crafting skill of 65, and has memorized a dweomer at 30%.
+G> If applying as a ritual, she can handle a complexity of up to 6 on each of the dweomer's effects across magnitude, duration, and range.
 G> That's up to a total complexity score of 24, with no single effect having a rating higher than 6.
 G>
 G> Alessia could choose to apply a dweomer with a magnitude of 4 (4 complexity), a Duration of 4 hours (6 complexity), and a range of one furlong (4 complexity) for a total of 14 complexity.
 G>
-G> If she fumbles the test for application, she'll take 14 damage which can only be mitigated by permanently burning one power point per hit point spared.
+G> If she chooses to apply it as an action she can handle a complexity of up to 3 on each of the dweom'ers effects - up to a total complexity of 12, no single effect with a rating higher than 3.
+G> If she botches the test for application, she'll take damage equal to the complexity she attempted; that damage can only be mitigated by permanently burning one power point per hit point spared.
 
 | Complexity  | Magnitude |  Duration  |    Range    |        Volume       |
 |:-----------:|:---------:|:----------:|:-----------:|:-------------------:|
@@ -107,23 +103,46 @@ The vast majority of dweomers are applied by imbuing the crafter's will and foll
 
 A character must be able to gesture with their hands and be able to chant in order to apply a dweomer.
 Whenever a dweomer is applied there will always be a sight and sound that nearby creatures can detect -  be it a flash of light, a crack of thunder, or a shimmering in the air.
-The exact effects are up to the Games Master and Player to decide, but will automatically be detected by any creatures within ten times the Magnitude of the spell in yards.
+The exact effects are up to the referee and player to decide, but will automatically be detected by any close creatures by default.
+If the magnitude is 5 or higher, it will be detected by nearby creatures as well;
+if the magnitude is 10 or higher, it will be detected by distant creatures too.
 
 Dweomers can be applied in two ways:
 
 1. slowly, carefully, in a ritual, or
 2. off-the-cuff, making all the requisite calculations mentally.
 
-In the first case, the character must make a Crafting test, taking ten minutes per point of complexity for the dweomer.
-Multiple Crafters working together can reduce the time to apply the dweomer, but any one crafter failing their test will cause the dweomer to fail.
-The complexity limit of the dweomer is dependent on the Crafter involved with the Dweomer with the highest Crafting skill.
-Failure to apply the dweomer means that the effort was wasted and can be retried.
-Applying a dweomer slowly and carefully while following safety protocols prevents terrible side effects, including the damage caused by failing or fumbling.
+In the first case, the character must make a Flax test using their Crafting skill bonus, taking ten minutes per point of complexity for the dweomer.
+If the character has memorized the dweomer, the ritual's time to apply decreases by one minute per point of complexity for every 10% increment the character's rating has - so a rating of 44% would reduce the time to apply the ritual by 4 minutes per point of complexity.
+If the character's rating for the dweomer is greater than 100% the time to apply it as a ritual is one moment per point of complexity.
 
-In the second case, the character must make a _hard_ Crafting test to apply the dweomer by making quick mental calculations and adjustments.
-Failing the test indicates that the character was unable to correctly adjudicate the energy and manipulations correctly and has caused a _misapplication_ - see the table below.
-Fumbling the test causes the crafter to take damage equal to the complexity of the dweomer.
-This damage cannot be reduced by AP.
+Multiple Crafters working together can reduce the time to apply the dweomer (two crafters cuts the time in half, three to a third, ten to a tenth, etc), but any one crafter failing their test will cause the dweomer to fail.
+The complexity limit of the dweomer is dependent on the crafter involved with the highest Crafting skill.
+
+Failure to apply the dweomer means that the effort was wasted and can be retried.
+Applying a dweomer slowly and carefully while following safety protocols prevents terrible side effects, including the damage caused by failing or botching.
+
+{icon=wrench}
+G> #### Ritual Applications and Cost
+G>
+G> By default, the rules don't require spending or using any additional materials, items, or power points.
+G> This can actually feel a little weird in-fiction, as a common imagining of dweomer rituals, especially with multiple participants, evokes the idea of complex rituals, the use of esoteric ingredients, the breaking or destruction of valuable items.
+G> Here's an optional rule you can use to incorporate material expenses for rituals:
+G>
+G> The test to apply a dweomer as a ritual is one step harder unless performed using implements whose value is equal to 1/2 the ritual's complexity.
+G>
+G> If a ritual is performed and Value equal to it's complexity is spent, the time to apply is reduced by one minute per complexity.
+G> This reduction in cost is linear; if twice the complexity in value is spent, then the time to apply is reduced by two minutes per complexity, and so on.
+
+In the second case, the crafter must make a Flax test to apply the memorized dweomer, adding its rating as a bonus to their goal, by making quick mental calculations and adjustments.
+It also requires the crafter to expend one power point per two points of complexity (this can be spent from a charm, an item which stores power points).
+Applying a dweomer as an action does not necessarily mean in combat (in fact, it's _most_ often done outside of fighting, for most Pentolans) - but stressful situations can make things even harder.
+In general, tests to apply a dweomer as an action are one step harder if in melee or otherwise doing anything more strenuous than standing still and concentrating.
+
+Failing the test indicates that the crafter was unable to correctly adjudicate the energy and manipulations correctly and has caused a _misapplication_ - see the table below.
+Botching the test causes the crafter to take damage equal to the complexity of the dweomer in a special misapplication known as _Tephratic Feedback_.
+This damage cannot be reduced by AP, but a crafter can divert some of this damage by permanently reducing their power point total by one for each hit point they choose not to lose.
+The power points can be sourced from a charm, but it cannot be refilled if used in this way.
 
 | 1D8 | Misapplication Effect |
 |:---:|:----------------------|
@@ -131,10 +150,10 @@ This damage cannot be reduced by AP.
 |  2  | **Burn:** The dweomer burns through the crafter, the magical energy misdirect. Take 1D4 damage.
 |  3  | **Explosion:** The energy of the dweomer goes off catastrophically, causing an explosion whose diameter is equal to the range of the dweomer. The explosion inflicts damage equal to half the total complexity to everyone in the sphere.
 |  4  | **Blind:** the dweomer's energy radiates as a brilliant light centered on the crafter, blinding them and anyone who looks at them in the next moment.
-|  5  | **Overpower:** The dweomer is applied but with more power than intended; double the magnitude of the dweomer but inflict the additional complexity cost as damage on the crafter.
+|  5  | **Overpower:** The dweomer is applied but with more power than intended; double the magnitude of the dweomer but pay the additional complexity from the crafter's PP, dealing damage equal to the amount they cannot pay, if any.
 |  6  | **Memory Loss:** Applying the dweomer without the appropriate safeguards caused the magic to burn the crafter's mind, making them lose some of what they've learned about the craft, though it does still take effect. Reduce the character's crafting skill bonus by a number of points equal to the magnitude of the dweomer.
 |  7  | **Weak:** The dweomer is successfully applied, but without any of the intended manipulations.
-|  8  | **Delayed:** The crafter fails to apply the dweomer in this moment but may still apply it in the next one automatically and without an additional test.
+|  8  | **Delayed:** The crafter fails to apply the dweomer in _this_ moment but may still apply it in the _next_ one automatically and without an additional test.
 
 {icon=wrench}
 G> #### Dangerous magic

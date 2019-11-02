@@ -5,9 +5,9 @@ By this study crafters seek unique and interesting ingredients or cause them to 
 
 Alchemists, more than most, seek to discover new and inventive dweomers and to produce potions, salves, powders, and foods which produce special effects.
 
-While maximum complexity is still governed by their Crafting skill bonus, Crafters may choose to apply dweomers using their art skill bonus instead.
+While technically still part of the Craft, crafters may choose to apply dweomers as alchemical formulae using their Alchemy skill bonus instead of their Crafting one.
 
-Except as noted below, applying dweomers through art follows the same rules and steps as ritually applying dweomers.
+Except as noted below, applying dweomers through alchemy follows the same rules and steps as ritually applying dweomers.
 
 ## Researching an Alchemical Formula
 
@@ -17,13 +17,13 @@ Each formula must be devised for a particular form - pills, wafers, salves, poti
 Each formula requires the combination of two or more ingredients whose alchemical nature matches the effect being created which must also be purchased or acquired.
 The magnitude of an alchemical formula is determined when the formula is being researched - the duration and volume are determined by the form while the range is irrelevant.
 
-You'll need to make a wealth test and a hard alchemy test for each research attempt in addition to paying for or acquiring the appropriate ingredients, which will be used up in the experiment whether or not it succeeds.
+You'll need to make a hard alchemy test for each research attempt in addition to paying for or acquiring the appropriate ingredients, which will be used up in the experiment whether or not it succeeds.
 Each attempt requires a week's preparation and work to accomplish, though multiple experiments may be tried if the alchemist has enough equipment - much of the time is waiting and observing.
 
 To produce a formula with a different magnitude you must research a new formula, though the ingredients may stay the same.
 The difference will be in the specific ratios and procedures.
 
-Failure during research is especially dangerous, like crafting under duress.
+Failure during research is especially dangerous, like action crafting under duress.
 When you fail during research, roll once on the Alchemical Mishap table.
 
 The potency of any effects caused by a mishap is equal to the intended magnitude of the formula.
@@ -41,7 +41,7 @@ The potency of any effects caused by a mishap is equal to the intended magnitude
 |     10    | **Sickening:** The formula is a failure, noxious gases escaping and causing everyone nearby to vomit uncontrollably for 1d6 moments.
 |     11    | **Slippage:** The formula is a failure and drains the alchemist of 1d4 PP as the magical energies fluctuate dangerously.
 |     12    | **Underpowered:** The formula is "successful" but only at magnitude 1.
-|     13    | **Disorienting:** The formula is "successful" but includes a side effect which makes all INT tests hard for the duration.
+|     13    | **Disorienting:** The formula is "successful" but includes a side effect which makes all Flax tests hard for the duration.
 |     14    | **Spillage:** The batch expands beyond its containers, spilling onto everything near by and causing chemical burns (1d6 HP) to everything it touches.
 |     15    | **Shattering:** The batch petrifies everything close, shattering into dangerous shards in 1d4 moments.
 |     16    | **Freezing:** The batch sucks all of the heat from the area nearby, freezing everything solid in 1d6 moments.
@@ -55,7 +55,7 @@ The potency of any effects caused by a mishap is equal to the intended magnitude
 Once an alchemist has acquired a formula, by learning or experimentation, they are free to attempt to create a batch of that formula using their alchemy skill.
 To do so they must acquire the appropriate ingredients, spend a single day, and make a normal alchemy test.
 
-Failure wastes the ingredients but is otherwise safe unless the test is fumbled, in which case a mishap occurs.
+Failure wastes the ingredients but is otherwise safe unless the test is botched, in which case a mishap occurs.
 
 ### Forms
 
@@ -91,121 +91,129 @@ All alchemical ingredients have particular qualities.
 - **Anatomical:** All dweomers which modify or influence the body require and ingredient with this quality.
 - **Base:** All dweomers require at least one element with this quality.
 - **Elemental (Element):** All dweomers which project or manipulate a particular element require an ingredient with the appropriate elemental quality.
-- **Expensive:** Ingredients with this quality are costly and require an additional wealth test to purchase.
-- **Imported:** Ingredients with this quality cannot be obtained normally in Pentola and must be purchased from traders from afar and therefore requires an additional wealth test to purchase.
+- **Expensive:** Ingredients with this quality are costly and have their value increased by 1.
+- **Imported:** Ingredients with this quality cannot be obtained normally in Pentola and must be purchased from traders from afar and therefore have their value increased by 1.
 - **Material:** All dweomers which empower the wielder to control or create physical objects require an ingredient with this quality.
 - **Metaphysical:** All dweomers which directly empower the recipient to see, manipulate, or otherwise interact with raw magic require this ingredient.
 - **Destructive:** All dweomers which do harm dequire an ingredient with this quality.
 - **Mindful:** All dweomers which affect the mind require an ingredient with this quality.
 - **Potent:** For every five magnitude of an intended alchemical preparation you must include an additional ingredient with this quality.
-- **Rare:** Ingredients with this quality are hard to come by, if they can be bought at all and therefore require an additional wealth test to purchase, if they can be found.
+- **Rare:** Ingredients with this quality are hard to come by, if they can be bought at all and therefore have their value increased by 1, if they can be found.
 
 ### Ingredients
 
-| Ingredient                           | Qualities |
-|:------------------------------------:|:----------|
-| A Page of Writing                    | Mindful
-| Acacia Gum                           | Material, Imported, Elemental (Earth), Elemental (Wood)
-| Arrow that has Killed                | Potent, Destructive
-| Ash of a Burned Ship                 | Elemental (Fire), Elemental (Water)
-| Ash of an Ash tree                   | Material, Elemental (Fire)
-| Bandersnatch Eye                     | Expensive, Destructive, Mindful
-| Basilisk Venom                       | Expensive, Rare, Destructive, Potent
-| Black Pearl                          | Material, Expensive, Rare, Destructive, Elemental (Water)
-| Black Sand                           | Potent, Mindful, Abjuring, Expensive, Material
-| Blood of a Child                     | Potent, Rare, Expensive, Anatomical, Base
-| Blood of a Demon                     | Potent, Rare, Expensive, Abjuring, Destructive, Base
-| Blood of a Ruler                     | Potent, Rare, Expensive, Base
-| Bluefin Mushroom                     | Mindful, Abjuring, Elemental (Earth)
-| Branch of a tree struck by lightning | Rare, Elemental (Wood), Elemental (Lightning), Abjuring
-| Brightmoth Wing                      | Metaphysical, Base, Elemental (Light)
-| Brimstone                            | Potent, Expensive, Abjuring, Destructive, Metaphysical
-| Bronze Nail                          | Abjuring, Base, Elemental (Lightning), Elemental (Metal)
-| Burial Shroud                        | Abjuring, Elemental (Darkness), Potent, Rare
-| Bush burned by a Phoenix             | Elemental (Fire), Potent, Destructive, Abjuring Imported, Rare, Expensive
-| Butter of Tin                        | Destructive
-| Carbuncle's Gem                      | Abjuring, Elemental (Earth), Elemental (Light), Potent, Rare
-| Catacomb Spider's Spinneret          | Destructive, Anatomical
-| Chalk                                | Abjuring, Base
-| Cinnabar                             | Destructive, Metaphysical, Abjuring, Rare, Expensive
-| Cinnamon                             | Elemental (Fire), Abjuration, Imported
-| Corpse-Ant Antenna                   | Mindful, Elemental (Earth)
-| Corpse-Ant Mandible                  | Destructive, Elemental (Earth)
-| Deathtrout                           | Destructive, Material, Elemental (Water), Elemental (Darkness)
-| Demon Tooth                          | Destructive, Potent, Rare, Expensive, Metaphysical
-| Distilled Wine                       | Base
-| Drake Eggshell                       | Anatomical
-| Eye of a Drake                       | Mindful, Destructive
-| Eye of a Peregrine                   | Mindful, Elemental (Air)
-| Feather of a Riding Raptor           | Imported, Elemental (Earth), Elemental (Air), Destructive
-| Finger of an Executed Man            | Abjuring, Potent, Expensive, Anatomical
-| Firepepper Oil                       | Destructive, Elemental (Earth), Elemental (Fire), Anatomical
-| Fool's Gold                          | Mindful, Material, Base,
-| Fragment Shield Broken in Battle     | Destructive
-| Galena                               | Imported, Abjuring, Anatomical, Mindful
-| Garlic Clove                         | Abjuring, Base
-| Gascon Saliva                        | Base, Mindful, Anatomical
-| Gascon Shark Skin                    | Abjuring, Potent, Imported
-| Gascon Shark Tooth                   | Destructive, Potent, Imported
-| Ginger Root                          | Abjuration, Mindful
-| Gold Flakes                          | Expensive, Potent, Material, Elemental (Metal)
-| Greatfish Scale                      | Abjuring, Elemental (Water)
-| Griffin Fur Spun by a Child          | Potent, Expensive, Imported, Elemental (Air), Abjuring
-| Ground Chamomile                     | Abjuring, Elemental (Earth)
-| Gryph's Leg                          | Elemental (Air), Elemental (Water)
-| Hair of a Condemned Woman            | Potent, Anatomical, Expensive
-| Hair Singed During Sunrise           | Elemental (Fire), Anatomical
-| Hammerhead Barnacle                  | Abjuring, Elemental (Water)
-| Heart of a Drake                     | Destructive, Abjuring
-| Honeycomb                            | Mindful, Material, Base
-| Horsetail                            | Material, Anatomical, Imported
-| Icegrapes                            | Imported, Potent, Base
-| Iron Shavings                        | Abjuring, Mindful, Metaphysical, Expensive, Rare
-| Ironoak Acorn                        | Potent, Material, Imported
-| Laurel Leaf                          | Mindful, Anatomical
-| Lavender                             | Anatomical, Abjuring
-| Leper's Snot                         | Anatomical, Potent, Expensive
-| Lime                                 | Destructive, Elemental (Fire)
-| Madgrass Blade                       | Mindful, Destructive
-| Mageglass                            | Potent, Rare, Expensive, Metaphysical
-| Mint Leaf                            | Abjuring, Mindful
-| Morning Dew                          | Material, Anatomical, Elemental (Light)
-| Morningberry                         | Base, Elemental (Earth)
-| Moss                                 | Base, Anatomical
-| Mugwort                              | Mindful, Anatomical
-| Nail Clipping of a Mournful Mother   | Mindful, Potent, Anatomical, Rare
-| Nightheather                         | Mindful, Elemental (Darkness), Base
-| Octopus Tentacle                     | Elemental (Water)
-| Owl's Eye                            | Mindful, Anatomical
-| Pearl Polished by a Child            | Abjuring, Potent, Expensive
-| Pentolan Eel Eye                     | Mindful, Elemental (Water)
-| Pentolan Eel Slime                   | Abjuring, Base
-| Powdered Bone of a Parent            | Potent, Anatomical, Abjuring, Expensive
-| Powdered Narwhal Horn                | Abjuring, Potent, Rare
-| Powdered Skull of a Traitor          | Destructive, Mindful, Potent, Rare, Expensive
-| Quicksilver                          | Material, Potent, Expensive
-| Rainwater of a Great Storm           | Material, Base, Elemental (Water), Elemenetal (Air), Elemental (Lightning)
-| Rat Tooth                            | Destructive, Material
-| Sage Leaf                            | Abjuration, Anatomy
-| Salt                                 | Abjuration, Material, Base
-| Silver Fulminate                     | Destructive, Potent, Expensive, Elemental (Earth)
-| Skin of an Inoccent Person Executed  | Destructive, Anatomical, Potent, Expensive
-| Steaming Sea Crab Claw               | Destructive, Material, Potent, Imported, Expensive
-| Steaming Sea Crab Leg                | Abjuring Anatomical, Potent, Imported, Expensive
-| Steaming Seawater                    | Destructive, Base, Imported
-| Sweet Basil Leaf                     | Abjuring
-| Sweetwater                           | Elemental (Water), Base
-| Tears of a Proud Father              | Abjuring, Mindful, Rare
-| Thunderbird Feather                  | Potent, Imported, Rare, Elemental (Lighting), Elemental (Air)
-| Tongue of a Drowned Man              | Destructive, Anatomical, Potent, Expensive, Rare
-| Tongue of an Adder                   | Destructive, Mindful
-| Unicorn Horn                         | Abjuring, Anatomical, Potent, Rare, Expensive, Imported
-| Urine of a Smith                     | Material, Base
-| Verdigris                            | Material, Elemental (Earth), Elemental (Lightning), Elemental (Metal)
-| Wine                                 | Elemental (Earth) Base
-| Written Confession of a Crime        | Mindful, Material, Potent, Rare, Expensive
-| Yarrow Root                          | Mindful, Anatomical
+| Ingredient                           | Value | Qualities |
+|:------------------------------------:|:-----:|:----------|
+| A Page of Writing                    |   1   | Mindful
+| Acacia Gum                           |   2   | Material, Imported, Elemental (Earth), Elemental (Wood)
+| Arrow that has Killed                |   1   | Potent, Destructive
+| Ash of a Burned Ship                 |   1   | Elemental (Fire), Elemental (Water)
+| Ash of an Ash tree                   |   1   | Material, Elemental (Fire)
+| Bandersnatch Eye                     |   2   | Expensive, Destructive, Mindful
+| Basilisk Venom                       |   3   | Expensive, Rare, Destructive, Potent
+| Black Pearl                          |   3   | Material, Expensive, Rare, Destructive, Elemental (Water)
+| Black Sand                           |   2   | Potent, Mindful, Abjuring, Expensive, Material
+| Blood of a Child                     |   3   | Potent, Rare, Expensive, Anatomical, Base
+| Blood of a Demon                     |   3   | Potent, Rare, Expensive, Abjuring, Destructive, Base
+| Blood of a Ruler                     |   3   | Potent, Rare, Expensive, Base
+| Bluefin Mushroom                     |   1   | Mindful, Abjuring, Elemental (Earth)
+| Branch of a Tree Struck by lightning |   2   | Rare, Elemental (Wood), Elemental (Lightning), Abjuring
+| Branch of a Bush burned by a Phoenix |   4   | Elemental (Fire), Potent, Destructive, Abjuring, Imported, Rare, Expensive
+| Brightmoth Wing                      |   1   | Metaphysical, Base, Elemental (Light)
+| Brimstone                            |   2   | Potent, Expensive, Abjuring, Destructive, Metaphysical
+| Bronze Nail                          |   1   | Abjuring, Base, Elemental (Lightning), Elemental (Metal)
+| Burial Shroud                        |   2   | Abjuring, Elemental (Darkness), Potent, Rare
+| Butter of Tin                        |   1   | Destructive
+| Carbuncle's Gem                      |   2   | Abjuring, Elemental (Earth), Elemental (Light), Potent, Rare
+| Catacomb Spider's Spinneret          |   1   | Destructive, Anatomical
+| Chalk                                |   1   | Abjuring, Base
+| Cinnabar                             |   3   | Destructive, Metaphysical, Abjuring, Rare, Expensive
+| Cinnamon                             |   2   | Elemental (Fire), Abjuration, Imported
+| Corpse-Ant Antenna                   |   1   | Mindful, Elemental (Earth)
+| Corpse-Ant Mandible                  |   1   | Destructive, Elemental (Earth)
+| Deathtrout                           |   1   | Destructive, Material, Elemental (Water), Elemental (Darkness)
+| Demon Tooth                          |   3   | Destructive, Potent, Rare, Expensive, Metaphysical
+| Distilled Wine                       |   1   | Base
+| Drake Eggshell                       |   1   | Anatomical
+| Eye of a Drake                       |   1   | Mindful, Destructive
+| Eye of a Peregrine                   |   1   | Mindful, Elemental (Air)
+| Feather of a Riding Raptor           |   2   | Imported, Elemental (Earth), Elemental (Air), Destructive
+| Finger of an Executed Man            |   2   | Abjuring, Potent, Expensive, Anatomical
+| Firepepper Oil                       |   1   | Destructive, Elemental (Earth), Elemental (Fire), Anatomical
+| Fool's Gold                          |   1   | Mindful, Material, Base
+| Fragment Shield Broken in Battle     |   1   | Destructive
+| Galena                               |   2   | Imported, Abjuring, Anatomical, Mindful
+| Garlic Clove                         |   1   | Abjuring, Base
+| Gascon Saliva                        |   1   | Base, Mindful, Anatomical
+| Gascon Shark Skin                    |   2   | Abjuring, Potent, Imported
+| Gascon Shark Tooth                   |   2   | Destructive, Potent, Imported
+| Ginger Root                          |   1   | Abjuration, Mindful
+| Gold Flakes                          |   2   | Expensive, Potent, Material, Elemental (Metal)
+| Greatfish Scale                      |   1   | Abjuring, Elemental (Water)
+| Griffin Fur Spun by a Child          |   3   | Potent, Expensive, Imported, Elemental (Air), Abjuring
+| Ground Chamomile                     |   1   | Abjuring, Elemental (Earth)
+| Gryph's Leg                          |   1   | Elemental (Air), Elemental (Water)
+| Hair of a Condemned Woman            |   2   | Potent, Anatomical, Expensive
+| Hair Singed During Sunrise           |   1   | Elemental (Fire), Anatomical
+| Hammerhead Barnacle                  |   1   | Abjuring, Elemental (Water)
+| Heart of a Drake                     |   1   | Destructive, Abjuring
+| Honeycomb                            |   1   | Mindful, Material, Base
+| Horsetail                            |   2   | Material, Anatomical, Imported
+| Icegrapes                            |   2   | Imported, Potent, Base
+| Iron Shavings                        |   3   | Abjuring, Mindful, Metaphysical, Expensive, Rare
+| Ironoak Acorn                        |   2   | Potent, Material, Imported
+| Laurel Leaf                          |   1   | Mindful, Anatomical
+| Lavender                             |   1   | Anatomical, Abjuring
+| Leper's Snot                         |   2   | Anatomical, Potent, Expensive
+| Lightning-Stricken Bird's Feather    |   3   | Potent, Expensive, Rare, Elemental (Lighting), Elemental (Air)
+| Lime                                 |   1   | Destructive, Elemental (Fire)
+| Madgrass Blade                       |   1   | Mindful, Destructive
+| Mageglass                            |   3   | Potent, Rare, Expensive, Metaphysical
+| Mint Leaf                            |   1   | Abjuring, Mindful
+| Morning Dew                          |   1   | Material, Anatomical, Elemental (Light)
+| Morningberry                         |   1   | Base, Elemental (Earth)
+| Moss                                 |   1   | Base, Anatomical
+| Mugwort                              |   1   | Mindful, Anatomical
+| Nail Clipping of a Mournful Mother   |   2   | Mindful, Potent, Anatomical, Rare
+| Nightheather                         |   1   | Mindful, Elemental (Darkness), Base
+| Octopus Tentacle                     |   1   | Elemental (Water)
+| Owl's Eye                            |   1   | Mindful, Anatomical
+| Pearl Polished by a Child            |   2   | Abjuring, Potent, Expensive
+| Pentolan Eel Eye                     |   1   | Mindful, Elemental (Water)
+| Pentolan Eel Slime                   |   1   | Abjuring, Base
+| Powdered Bone of a Parent            |   2   | Potent, Anatomical, Abjuring, Expensive
+| Powdered Narwhal Horn                |   2   | Abjuring, Potent, Rare
+| Powdered Skull of a Traitor          |   3   | Destructive, Mindful, Potent, Rare, Expensive
+| Quicksilver                          |   2   | Material, Potent, Expensive
+| Rainwater of a Great Storm           |   1   | Material, Base, Elemental (Water), Elemenetal (Air), Elemental (Lightning)
+| Rat Tooth                            |   1   | Destructive, Material
+| Sage Leaf                            |   1   | Abjuration, Anatomy
+| Salt                                 |   1   | Abjuration, Material, Base
+| Silver Fulminate                     |   2   | Destructive, Potent, Expensive, Elemental (Earth)
+| Skin of an Inoccent Person Executed  |   2   | Destructive, Anatomical, Potent, Expensive
+| Steaming Sea Crab Claw               |   3   | Destructive, Material, Potent, Imported, Expensive
+| Steaming Sea Crab Leg                |   3   | Abjuring Anatomical, Potent, Imported, Expensive
+| Steaming Seawater                    |   2   | Destructive, Base, Imported
+| Sweet Basil Leaf                     |   1   | Abjuring
+| Sweetwater                           |   2   | Elemental (Water), Base
+| Tears of a Proud Father              |   2   | Abjuring, Mindful, Rare
+| Tongue of a Drowned Man              |   3   | Destructive, Anatomical, Potent, Expensive, Rare
+| Tongue of an Adder                   |   1   | Destructive, Mindful
+| Unicorn Horn                         |   4   | Abjuring, Anatomical, Potent, Rare, Expensive, Imported
+| Urine of a Smith                     |   1   | Material, Base
+| Verdigris                            |   1   | Material, Elemental (Earth), Elemental (Lightning), Elemental (Metal)
+| Wine                                 |   1   | Elemental (Earth) Base
+| Written Confession of a Crime        |   3   | Mindful, Material, Potent, Rare, Expensive
+| Yarrow Root                          |   1   | Mindful, Anatomical
 
 ## Alchemical Gardening and Husbandry
 
-_TODO_
+In Pentola, alchemists don't just make items to be ingested, inhaled, or injected, nor do they always limit themselves to purchasing ingredients with the necessary qualities.
+
+Many alchemists also practice alchemical gardening and husbandry, skills which intertwine knowledge of alchemy, the Craft, and the cultivation of flora and fauna.
+Through these endeavors alchemists are able to raise wonders like bushes whose fruit get you drunk, tubers which glow brightly in the dark, birds which can act as diction recorders, fish whose blood is extremely acidic, and more.
+
+> To be detailed further; for now, treat as research similar to other alchemical pursuits to discover a new strain, with double the cost and mishaps being weird failures along the way rather than dangerous ones.
+> Use the _Gardening_ and _Husbandry_ skills instead of Alchemy for any related tests.
+>
+> Referees should err on the side of letting the players dream up and try interesting and weird experiments, but use their best judgement; the more dangerous or useful the creation, the slower it should grow and/or the more expensive and tedious it's care.

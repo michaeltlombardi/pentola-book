@@ -15,9 +15,9 @@ Finally, the dweomer allows the supplicant to communicate with the grantors and 
 
 Each organization has a set of duties which represent the organization's objectives in the world.
 
-When a character does an action that fulfills one of the organizational duties they gain one IP for a minor act and up to three IP for a major act.
+When a character fulfills one of the organizational duties they gain one IP for a minor act and up to three IP for a major act.
 
-When a character does an action that goes against one of the organization duties they lose between one and three IP depending on the grievousness of their transgression.
+When a character goes against one of the organizational duties they lose between one and three IP depending on the grievousness of their transgression.
 If they have no IP left then they start to lose Miracles and knacks gained from the organization.
 The player may chose which miracle to lose and, if no miracles remain, they begin to lose knacks instead.
 
@@ -25,13 +25,13 @@ If the offending character has no IP, miracles, or knacks to lose then they are 
 
 ## Organization Ranks
 
-There are five ranks of organizational membership: lay members, supplicants, champions, principals, and grantors.
+There are, broadly speaking, five ranks of organizational membership: lay members, supplicants, champions, principals, and grantors.
 
 For more information, see [organization ranks](04-supplication/a-ranks)
 
 ## Miracles
 
-Miracles are special abilities which exceed the normal bounds and limitations of magic or knacks, usable only via the ritual link of supplication.
+Miracles are special abilities which exceed the normal bounds and limitations of magic, usable only via the ritual link of supplication.
 Attempts to recreate these abilities without supplication have always met with abject failure.
 
 For more information, see [miracles](04-supplication/b-miracles)
@@ -52,4 +52,4 @@ Intervention can take many forms and the following can be considered guidelines:
 - Allow the character to perform any organizational miracle at any Magnitude.
 - Allow a miracle to affect every member of the organization within the character's line of sight.
 - Various other effects are also possible dependant on the nature of the character's organization.
-  Examples could include creating a fog to allow the character to escape from enemies, doubling their BOD to defeat a powerful enemy or causing a river to break its banks to stall an invading army.
+  Examples could include creating a fog to allow the character to escape from enemies, doubling their Bone to defeat a powerful enemy or causing a river to break its banks to stall an invading army.

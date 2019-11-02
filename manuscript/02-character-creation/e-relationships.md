@@ -8,7 +8,7 @@ You have a relationship bonus with each of these equal to 25%.
 + **Enemy**. This is a sworn enemy.
   Interactions with this person or group are usually negative.
   They may be a recurring foe or antagonistic organization.
-+ **Organization**.This could be a wizards' sorority, a former regiment or even a cult.
++ **Organization**. This could be a wizards' sorority, a former regiment, or even a cult.
   The character has an association with this organization; they typically deal with this group on a favorable basis.
   GMs should determine the maximum scale of an organization, which could be as great as a whole nation, or just a small wandering band of minstrels.
 
@@ -21,36 +21,53 @@ G>
 G> Interacting with established relationships is one of the primary means by which characters gain improvement points, so keep that in mind.
 G> Not every interaction with a relationship will generate a chance for IP, but lots of them should.
 
+Make a relationship test whenever you want to lean on the relationship in the fiction or take advantage of the relationship's mechanical advantages.
+As usual, in some situations a roll is not called for, depending on your intent and approach.
+
 On a critical success for a relationship test, the character gains a very positive response, and an increase of 1D6% to their relationship.
-On a fumble the character damages their relationship with the party and loses 1D4% from their relationship.
-Further, after a fumble, the player cannot call on a relationship for rest of the adventure.
+On a botch the character damages their relationship with the party and loses 1D4% from their relationship.
+Further, after a botch, the player cannot call on a relationship for rest of the adventure.
 In the case of enemies this means that they have accidentally aided them in some way.
 
-| Relationship | IP Cost | Advantages (must make a successful relationship roll) | Disadvantages |
-|:------------:|:-------:|:------------------------------------------------------|:--------------|
+You can purchase new relationships later with improvement points for the cost listed; new relationships start at a bonus of 10%.
+New relationships may arise from play - in these cases, they start at 5%.
+
+| Relationship | IP Cost | Advantages | Disadvantages |
+|:------------:|:-------:|:-----------|:--------------|
 | Ally         | 2       | Loan an appropriate item or finances; assist on social test; provide info and/or employment | Allies demand favors of the character, in the form of money, errands etc for each favor given; enemies of your ally become your enemies.
 | Dependent    | 1       | Characters gain 1-3 additional Improvement Points where they support, aid or defend Dependents. | Dependents regularly get themselves and the character into trouble; Enemies will target dependents to harm the character
 | Enemy        | 2       | Gains +25% to tests in the attempt to thwart their enemy;  gain 1-3 additional IP for thwarting an enemy's plans; gain employment by enemy's opponents | Enemies will try to harm characters as often as possible; All interactions (parleys, influence, negotiation) with an enemy will be at one difficulty rating harder than normal.
 | Organization | 2       | Can access the facilities offered by the organization; can gain information and possible employment | Organizations typically demand a charge for their services, either in cash or a favor; Enemies of an organization may harry and harm the character for their relationship to the organization.
 
-You can purchase new relationships later with improvement points for the cost listed; new relationships start at a bonus of 10%.
-New relationships may arise from the fiction - in these cases, they start at 5%.
-
 {icon=dice-d20}
 G> #### Relationships In Play
-G> At the start of play, Karacter selects Warden, their aunt, as an ally.
-G> Karacter takes Spot, a miniature tiger, as their dependent.
-G> Finally, as Karacter's goal is to become a full fledged member of the Wardens, Karacter takes them as an organizational relationship.
+G> At the start of play, Taryn selects Rose Carozza, their aunt and a Warden, as an ally.
+G> Taryn takes Spot, a miniature tiger, as their dependent.
+G> Finally, as Taryn's goal is to become a full fledged member of the Wardens, Taryn takes them as an organizational relationship.
 G>
-G> During Karacter's first session it becomes clear that lacking a proper weapon (Karacter only has a single dagger which doubles as their utility knife) is a problem.
-G> Karacter asks their aunt, Warden, for a loaner weapon and makes a relationship test.
-G> Karacter's POW is 18, to which they add their relationship bonus, 25%, for a total goal of 43%.
+G> During Taryn's first session it becomes clear that lacking a proper weapon (Taryn only has a single dagger which doubles as their utility knife) is a problem.
+G> Taryn asks their aunt, Rose, for a loaner weapon and makes a relationship test.
+G> Taryn's Iron is 18, to which they add their relationship bonus, 25%, for a total goal of 43%.
 G>
-G> Karacter rolls a 32 and the referee declares that Aunt Warden lends an old shortsword and a spare longbow to Karacter - on the condition that Karacter must succeed in the trials to join the Wardens or return the weapons upon failure.
+G> Taryn rolls a 32 and the referee declares that Aunt Rose lends an old shortsword and a spare longbow to Taryn - on the condition that Taryn must succeed in the trials to join the Wardens or return the weapons upon failure.
 G>
-G> Later in the adventure, Karacter is ambushed in an alley by Spy, who has been paid by the father of a man Warden killed in a judicial duel - Karacter has inherited their aunt's enemies.
+G> Later in the adventure, Taryn is ambushed in an alley by Spy, who has been paid by the father of a man Rose killed in a judicial duel - Taryn has inherited their aunt's enemies.
+
+{icon=wrench}
+G> #### Starting Relationship Details
+G>
+G> It can be a bit daunting to spin out several detailed relationships all at once.
+G> One useful way to handle this is to collaboratively add details to the relationships in play - that is, when you think your ally would first be useful to your character or the game generally, invoke them and flesh them out on the fly with your referee.
+G> The referee, in turn, is encouraged to think of times when your relationships would drive interesting choices for your character, be helpful in moving things forward, or throw problems into the fiction for you and the other players to handle.
+G>
+G> In either case, don't feel like you need to have several pages of relationship context built up to use a relationship;
+G> sometimes it's enough to know that your dependent is your nephew and spin things out from there.
+G> Of course, it's okay to take some time to flesh those relationships out, too!
+G> Just make sure that the player and referee are on the same page so things can adjudicate smoothly.
 
 ## Allies
+
+Roll on the table below to randomly determine your ally's vocation or select one from the larger [Vocations](../vocations-and-skills) table.
 
 | 1D20 | Ally               |
 |:----:|:------------------:|
@@ -77,6 +94,8 @@ G> Later in the adventure, Karacter is ambushed in an alley by Spy, who has been
 
 ## Dependents
 
+Roll on the table below to randomly determine who your dependent is to you or choose another sort of relationship that makes sense for your character.
+
 | 1D12 | Dependent       |
 |:----:|:---------------:|
 |  01  | Foundling Child |
@@ -93,6 +112,9 @@ G> Later in the adventure, Karacter is ambushed in an alley by Spy, who has been
 |  12  | Drake Hatchling |
 
 ## Enemy
+
+Roll on the table below to determine your enemy's vocation or select one from the larger [Vocations](../vocations-and-skills) table.
+Note that an organization can also be your enemy.
 
 | 1D20 | Enemy                                    |
 |:----:|:----------------------------------------:|
@@ -119,8 +141,8 @@ G> Later in the adventure, Karacter is ambushed in an alley by Spy, who has been
 
 ## Organization
 
-Roll 1D4 to determine the type of organization, then roll on the related table to determine details about the organization.
-Use those details as the skeleton of ideas to flesh out a group of people in the world - Pentola is enormous and varied, far too large and fractured to detail every organization who you might encounter.
+To randomly generate an organization, roll 1D4 to determine the type of organization, then roll on the related table to determine details about it.
+Use those details as the skeleton of ideas to flesh out a group of people in the world - Pentola is enormous and varied, far too large and fractured to detail every organization you might encounter.
 
 | 1D4 | Table to Roll On |
 |:----:|:----------------:|
@@ -131,14 +153,14 @@ Use those details as the skeleton of ideas to flesh out a group of people in the
 
 ### Academic Organizations
 
-Roll 1D12 6 times:
+Roll 1D12 6 times or, for fast generation, roll 1d12 and read straight across.
 
-- **Type:** The institution of the organization that defines its structure
-- **Focus:** The purpose of the organization, what it primarily spends its effort on
-- **Symbol:** The marking used to differentiate this organization from others
-- **Color:** The primary color associated with the organization, often used in their clothes or banners
-- **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
-- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Type:** The institution of the organization that defines its structure
++ **Focus:** The purpose of the organization, what it primarily spends its effort on
++ **Symbol:** The marking used to differentiate this organization from others
++ **Color:** The primary color associated with the organization, often used in their clothes or banners
++ **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 | Type            | Focus       | Symbol  | Color    | Reputation | Distinctive Feature      |
 |:----:|:---------------:|:-----------:|:-------:|:--------:|:----------:|:------------------------:|
@@ -155,16 +177,17 @@ Roll 1D12 6 times:
 |  11  | Gurukula        | Medicine    | Heart   | Pink     | Strange    | Eyes same as Color       |
 |  12  | Spire College   | Rhetoric    | Eye     | Numerous | Implacable | Voice always echoes      |
 
+{icon=dice-d20}
 G> #### Example Academic Organization
 G>
 G> We first roll 1D12 6 times to determine which details will define this organization:
 G>
-G> - **Type:** 9, Institute
-G> - **Focus:** 6, History
-G> - **Symbol:** 1, Drake
-G> - **Color:** 10, Orange
-G> - **Reputation:** 9, Pious
-G> - **Distinctive Feature:** 12, Voice always echoes
+G> + **Type:** 9, Institute
+G> + **Focus:** 6, History
+G> + **Symbol:** 1, Drake
+G> + **Color:** 10, Orange
+G> + **Reputation:** 9, Pious
+G> + **Distinctive Feature:** 12, Voice always echoes
 G>
 G> ##### Guardians of the True Word
 G>
@@ -177,14 +200,14 @@ G> The Truth is never spoken aloud to outsiders, but no word spoken by a believe
 
 ### Religious Organizations
 
-Roll 1D12 6 times:
+Roll 1D12 6 times or, for fast generation, roll 1d12 and read straight across.
 
-- **Type:** The institution of the organization that defines its structure
-- **Primary Domain:** The main focus of the religious group in this institution - they may have others, but this is what they're _most_ known for.
-- **Symbol:** The marking used to differentiate this organization from others
-- **Preferred Sacrifice:** The sacrifice that is considered most valuable to this organization
-- **Cleric Attire:** Ranking members of religious organizations are often visible by a special item of clothing
-- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Type:** The institution of the organization that defines its structure
++ **Primary Domain:** The main focus of the religious group in this institution - they may have others, but this is what they're _most_ known for.
++ **Symbol:** The marking used to differentiate this organization from others
++ **Preferred Sacrifice:** The sacrifice that is considered most valuable to this organization
++ **Cleric Attire:** Ranking members of religious organizations are often visible by a special item of clothing
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 | Type        | Primary Domain | Symbol   | Preferred Sacrifice | Cleric Attire | Distinctive Feature      |
 |:----:|:-----------:|:--------------:|:--------:|:-------------------:|:-------------:|:------------------------:|
@@ -201,16 +224,17 @@ Roll 1D12 6 times:
 |  11  | Inquisition | Chaos          | Leaf     | Blood               | Sash          | Ears are huge            |
 |  12  | Flock       | Community      | Flame    | Phoenix             | Stole         | Cast no shadow           |
 
+{icon=dice-d20}
 G> #### Example Religious Organization
 G>
 G> We first roll 1D12 6 times to determine which details will define this organization:
 G>
-G> - **Type:** 11, Inquisition
-G> - **Primary Domain:** 11, Chaos
-G> - **Symbol:** 2, Fish
-G> - **Preferred Sacrifice:** 10, Art
-G> - **Cleric Attire:** 6, Robe
-G> - **Distinctive Feature:** 11, Ears are huge
+G> + **Type:** 11, Inquisition
+G> + **Primary Domain:** 11, Chaos
+G> + **Symbol:** 2, Fish
+G> + **Preferred Sacrifice:** 10, Art
+G> + **Cleric Attire:** 6, Robe
+G> + **Distinctive Feature:** 11, Ears are huge
 G>
 G> ##### The Troutslappers of Her Aquatic Majesty
 G>
@@ -225,14 +249,14 @@ G> Even when out of their vestments these pious interlocutors are visible by the
 
 ### Guild
 
-Roll once on the [Vocations](../vocations-and-skills) table to determine the business of the guild, then roll 1D12 6 times:
+Roll once on the [Vocations](../vocations-and-skills) table to determine the primary business of the guild, then roll 1D12 6 times or, for fast generation, roll 1d12 and read straight across.
 
-- **Type:** The institution of the organization that defines its structure
-- **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
-- **Symbol:** The marking used to differentiate this organization from others
-- **Value:** The core value of the organization which informs their decisions and structure
-- **Color:** The primary color associated with the organization, often used in their clothes or banners
-- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Type:** The institution of the organization that defines its structure
++ **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
++ **Symbol:** The marking used to differentiate this organization from others
++ **Value:** The core value of the organization which informs their decisions and structure
++ **Color:** The primary color associated with the organization, often used in their clothes or banners
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Type     | Reputation  |   Symbol  |    Value     |  Color   |    Distinctive Feature     |
 |:----:|:-----------:|:-----------:|:---------:|:------------:|:--------:|:--------------------------:|
@@ -249,15 +273,16 @@ Roll once on the [Vocations](../vocations-and-skills) table to determine the bus
 |  11  | Union       | Humble      | Bell      | Quality      | Pink     | Skin gritty like sand      |
 |  12  | Cooperative | Sardonic    | Tool      | Safety       | Numerous | Skin clinks like metal     |
 
+{icon=dice-d20}
 G> #### Example Guild Organization
 G>
-G> - **Vocation:** 81, Sailor
-G> - **Type:** 10, Conjuration
-G> - **Reputation:** 10, Industrious
-G> - **Symbol:** 2, Crow
-G> - **Value:** 5, Competition
-G> - **Color:** 7, White
-G> - **Distinctive Feature:** 9, Missing Finger
+G> + **Vocation:** 81, Sailor
+G> + **Type:** 10, Conjuration
+G> + **Reputation:** 10, Industrious
+G> + **Symbol:** 2, Crow
+G> + **Value:** 5, Competition
+G> + **Color:** 7, White
+G> + **Distinctive Feature:** 9, Missing Finger
 G>
 G> ##### Conjuration of the Peaceful Waves
 G>
@@ -270,14 +295,14 @@ G> They are serious competitors for any and all other groups and guilds who make
 
 ### Spire
 
-Roll 1d12 6 times:
+Roll 1d12 6 times or, for fast generation, roll 1d12 and read straight across.
 
-- **Shape:** The general shape category of the spire.
-- **Symbol:** The marking used to differentiate this organization from others
-- **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
-- **Value:** The core value of the organization which informs their decisions and structure
-- **Focus:** The purpose of the organization, what it primarily spends its effort on
-- **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Shape:** The general shape category of the spire.
++ **Symbol:** The marking used to differentiate this organization from others
++ **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
++ **Value:** The core value of the organization which informs their decisions and structure
++ **Focus:** The purpose of the organization, what it primarily spends its effort on
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Shape   |  Symbol  |  Reputation  |    Value   |     Focus     |   Distinctive Feature    |
 |:----:|:----------:|:--------:|:------------:|:----------:|:-------------:|:------------------------:|
@@ -294,14 +319,15 @@ Roll 1d12 6 times:
 |  11  | Spear      | Dagger   | Rigid        | Glory      | Recognition   | Body covered in soft fur |
 |  12  | Polygonal  | Lens     | Tireless     | Peace      | Wealth        | Ears are just holes      |
 
+{icon=dice-d20}
 G> #### Example Guild Organization
 G>
-G> - **Shape:** 2, Sheer
-G> - **Symbol:** 1, Griffin
-G> - **Reputation:** 4, Creative
-G> - **Value:** 11, Glory
-G> - **Focus:** 11, Recognition
-G> - **Distinctive Feature:** 1, Metallic Veins
+G> + **Shape:** 2, Sheer
+G> + **Symbol:** 1, Griffin
+G> + **Reputation:** 4, Creative
+G> + **Value:** 11, Glory
+G> + **Focus:** 11, Recognition
+G> + **Distinctive Feature:** 1, Metallic Veins
 G>
 G> ##### Skylion Spire
 G>

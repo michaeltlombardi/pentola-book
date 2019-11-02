@@ -18,7 +18,7 @@ Whenever a miracle is performed, there will always be a sight and sound that nea
 The exact effects are up to the referee and player to decide but will automatically be detected by any creatures who are nearby.
 
 Performing a miracle is automatically successful.
-No dice need be rolled, no chance of a fumble or critical either.
+No dice need be rolled, no chance of a botch or critical either.
 Miracles do not cost any PP and always take only a single action to perform.
 
 A character can dismiss any miracle they have performed as a single action.
@@ -69,9 +69,9 @@ The character need not spend any improvement points to regain their miracles.
 - **Progressive:** This indicates that the miracle can be acquired and performed at greater levels of Magnitude than the minimum.
 - **Ranged (X):** Ranged miracles may be cast upon targets up to the distance increment specified.
 - **Resist:** The miracle's effects do not take effect automatically.
-  The target may make a hard opposed POW test in order to avoid the effect of the miracle entirely.
+  The target may make a hard opposed Iron test in order to avoid the effect of the miracle entirely.
 - **Dodge:** The miracle's effects do not take effect automatically.
-  The target may make a hard opposed test (their BOD vs the supplicant's POW) in order to avoid the effect of the miracle entirely.
+  The target may make a hard opposed test (their Bone vs the supplicant's Iron) in order to avoid the effect of the miracle entirely.
   Note that the target must be able to use their reaction in order to dodge.
   In the case of area miracles, the Dodge trait requires the target to dive in order to mitigate the miracle's effect.
 - **Touch:** Touch miracles require the character to actually touch their target for the miracle to take effect.

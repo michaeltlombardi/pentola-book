@@ -3,7 +3,8 @@
 In Pentola, there are a few things which make up the core mechanics:
 
 - Action Resolution: How you determine if a character succeeds or fails at something
-- The Usage Die: Determining whether or not resources are expended
+- Ratings and Rankings: Shorthand for how powerful a particular bonus is
+- The Usage Die and Resource Decks: Determining whether or not resources are expended
 - Time: How time is mechanized
 - Distance: How distance is abstracted
 
@@ -104,7 +105,7 @@ G>    Even though it is possible that Cerise's first attempt to break down the d
 G>    The referee declares that Cerise successfully kicks the door in.
 G> 2. Cerise is chasing a fleeing bandit who has slipped into the building and barred the door behind him to buy himself more time to escape.
 G>    In this scenario not only can Cerise fail to kick in the door but each failed attempt gives the fleeing bandit more time to escape.
-G>    The referee decides that a test is required and directs Cerise to test against her BOD, adding any relevant bonuses she may have.
+G>    The referee decides that a test is required and directs Cerise to test against her Bone, adding any relevant bonuses she may have.
 G> 3. Cerise is locked into a steel vault and needs to escape.
 G>    In this scenario failure to kick open the door means that Cerise remains locked in the vault.
 G>    However, the referee notes that the vault door is nearly a foot thick and that Cerise's stated approach - kicking down the door - is simply impossible.
@@ -120,17 +121,17 @@ G> Caleb is attempting to convince the guard to share some gossip using several 
 G>
 G> 1. Caleb wants to share false gossip about the topic to prompt the guard to share his own knowledge.
 G>    The referee decides that this approach _could_ work, but isn't particularly more or less likely to do so.
-G>    The referee therefore calls for an INT test to pull off the minor deception.
+G>    The referee therefore calls for an Flax test to pull off the minor deception.
 G> 2. Caleb wants to approach the guard with a smoke and a friendly smile before mentioning the topic of gossip off-handedly.
 G>    The referee knows that the guard is young and slightly ill disciplined  - and decides that the guard is particularly susceptible to this method.
-G>    The referee therefore calls for an easy INT test, allowing Caleb to double his goal for this test.
+G>    The referee therefore calls for an easy Flax test, allowing Caleb to double his goal for this test.
 G> 3. Caleb wants to intimidate the guard into sharing the gossip by being physical and not-quite threatening him.
 G>    The referee knows that the guard is young, slightly ill disciplined, and has a lot to prove - and therefore determine that this method is particularly unlikely to get the fulfill the desired intent.
-G>    The referee therefor calls for Caleb to make a hard INT test, forcing Caleb to cut his goal for this test in half.
+G>    The referee therefor calls for Caleb to make a hard Flax test, forcing Caleb to cut his goal for this test in half.
 
-If the result of the test is less than 1/10 the test's goal, it is a critical success - the _best possible_ result based on the character's intentions.
+If the result of the test is less than 1/10 the test's goal, it is a **triumph** - the _best possible_ result based on the character's intentions.
 
-If the result of the test is 100, it is a fumble - the _worst possible_ result based on the character's intentions.
+If the result of the test is 100, it is a **botch** - the _worst possible_ result based on the character's intentions.
 
 ## Opposed Tests
 
@@ -143,7 +144,7 @@ Both characters make the tests as normal and the results depend on how well both
   If both sides succeed then whoever rolled the highest in their test wins the opposed test.
   However, if one side rolls a critical while the other rolls an ordinary success then the side that rolled the critical wins.
 - **Both Sides Fail:**
-  Whoever rolled the highest without fumbling in their test wins the opposed test.
+  Whoever rolled the highest without botching in their test wins the opposed test.
   In the case of ties for both the Player wins.
   If the action is player-against-player, the defender wins.
 
@@ -162,8 +163,24 @@ G> 2. Cerivny rolls a 68, succeeding, and Caleb rolls a 32, succeeding.
 G>    Because both characters succeeded at their test and Cerivny's roll was higher, Cerivny wins over the crowd.
 G> 3. Cerivny rolls a 41, succeeding, and Caleb rolls a 12, critically succeeding.
 G>    Even though both character succeeded Caleb had a critical success and therefore wins over the crowd.
-G> 4. Cerivny rolls a 91, failing, and Caleb rolls a 100, fumbling.
-G>    Even though both characters failed, Caleb actually fumbled and therefore Cerivny wins over the crowd.
+G> 4. Cerivny rolls a 91, failing, and Caleb rolls a 100, botching.
+G>    Even though both characters failed, Caleb actually botched and therefore Cerivny wins over the crowd.
+
+# Ratings and Rankings
+
+Bonuses to tests in Pentola come from several sources -- vocations, skills, relationships, and reputations.
+The level of bonus a character has in each of these is the _rating_ of that vocation, skills, relationship, or reputation.
+
+Reaching certain ratings in these bonuses unlocks a ranking, a general category for how profound that bonus is:
+
+- Any rating less than 0% is _nonexistant_ (N)
+- A rating between 1-25% is _basic_ (B)
+- A rating between 25-49% is _comprehensive_ (C)
+- A rating of 50-74% is _extraordinary_ (E)
+- A rating of 75-99% is _incredible_ (I)
+- A rating of 100%+ is _unbelievable_ (U)
+
+In addition to adding the highest relevant rating to a test, sometimes the ranking is also important and additional effects or rules key off of that.
 
 # Usage Die
 
@@ -184,6 +201,43 @@ G> Carina rolls the D8 which lands on a 1, meaning that one use from her herbal 
 G> The kit's usage die is reduced by one step to a D6, meaning the next time it is used Carina will roll that die instead.
 G>
 G> If instead Carina had rolled a 2 or higher the usage die would remain a D8.
+
+# Resource Cards
+
+Sometimes, a character needs to expend tangible resources to acquire something or perform an action, typically when the item or ability has an associated cost.
+
+In Pentola, the cards in a suit go from 1-7, then Thief, Captain, Matriarch (the named cards, called _face cards_, all have avalue of 10 unless otherwise indicated).
+
+{icon=wrench}
+G> #### Using a Standard Deck of Playing Cards
+G>
+G> To use a standard deck of playing cards, remove the 8s, 9s, and 10s from the deck.
+G> It's useful to sort the deck initially by suit, since how many suits you have access to often depends on the specific resource.
+
+> Every character has access to a deck which represents their own available resources.
+> When you have to pay a cost, you draw cards one at a time from your deck until you meet the cost, unless otherwise specified.
+>
+> If your relevant ranking is basic, you look through your deck and choose one card to pay towards the cost.
+> The remainder must be randomly drawn after you reshuffle the remaining cards in your deck.
+>
+> If your relevant ranking is comprehensive, you may look through your deck and choose up to two cards to pay towards the cost instead.
+> If your relevant ranking is extraordinary, you may choose up to three cards.
+> If your relevant ranking is incredible, you may choose up to four cards.
+> If your relevant ranking is unbelievable, you may choose any number of cards.
+
+{icon=dice-d20}
+G> #### Paying a Cost with Resource Cards
+G>
+G> Carina is plans to perform a ritual whose cost is 6.
+G> Her relevant rating is 43, _comprehensive_.
+G>
+G> She may look through her deck to select up to two cards to use to pay the cost, and chooses to use a 2 and a 4.
+G> If her relevant rating was 23, _basic_, she would only be able to select one card.
+G>
+G> She might then choose to use a 6 and not have to draw, or a 3 and draw a card.
+
+Cards spent from your available resources are not automatically refilled; place them in a discard pile.
+Different types of resources are refilled using specific rules for those resources.
 
 # Time
 
@@ -231,8 +285,8 @@ Note that initiative doesn't always mean combat - you might break into initiativ
 G> #### Example Initiative: Two Combatants
 G>
 G> Toph and Tarasi are sparring.
-G> Toph has an INT of 39 and a fencing skill bonus of 43% (total goal of 82%).
-G> Tarasi has an INT of 30 and a gearslinger skill bonus of 20% (total goal of 50%).
+G> Toph has an Flax of 39 and a fencing skill bonus of 43% (total goal of 82%).
+G> Tarasi has an Flax of 30 and a gearslinger skill bonus of 20% (total goal of 50%).
 G>
 G> At the beginning of the moment both characters roll an initiative test and their results are compared:
 G>
@@ -249,7 +303,7 @@ G> The next moment starts and they both roll for initiative again and repeat the
 G>
 G> #### Example Initiative: Three Combatants
 G>
-G> As in the last example, but there's now a third combatant, Galner (INT 30, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
+G> As in the last example, but there's now a third combatant, Galner (Flax 30, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
 G> Toph's result is a 31 (success), Tarasi's a 79 (failure), and Galner's a 10 (success).
 G>
 G> Tarasi declares her action first, deciding to kick at Toph.
