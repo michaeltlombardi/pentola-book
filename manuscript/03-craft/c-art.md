@@ -77,7 +77,7 @@ G> ~ Letter from an Aydinlar Merchant to her Cousin
 Actualizing an ethereal opus takes 1 minute per point of complexity to perform instead of the normal time.
 It takes effect either at completion (starting the duration clock), or begins immediately but lasts only for so long as the performance does.
 
-Actualizing an ethereal opus spends 1PP for every 5 points of complexity.
+Actualizing an ethereal opus spends 1 Tephra for every 5 points of complexity.
 This cost can be spent from charms or other sources as normal.
 
 {icon=wrench}
@@ -92,6 +92,6 @@ G> It can make the game feel more distinct and strange, a feeling Pentola was wr
 
 Creating an ethereal opus follows the same rules as researching a dweomer, except that:
 
-- you must also expend all of your PP in the attempt as the process is intense and draws directly from your every reserve
+- you must also expend all of your Tephra in the attempt as the process is intense and draws directly from your every reserve
 - each created opus with a roll of 2-3 has some slight, but fading effect related to your research goal
 - each created opus with a roll of 1 has an unexpected or backfiring effect compared to your research goal

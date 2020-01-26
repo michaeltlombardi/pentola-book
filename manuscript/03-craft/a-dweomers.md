@@ -59,7 +59,7 @@ G> If there's an effect which makes sense given the dweomer's description the re
 |   19-20   | Copy                         | Touch                        | Make a copy of an inanimate item which lasts for the duration.
 |   21-22   | Corrode (Substance)          | Permanent                    | Cause a particular inorganic substance to rapidly lose structural integrity.
 |   23-24   | Counterdweomer               | Reaction                     | Reactively ullify the effects of a dweomer being applied.
-|   25-26   | Create Charm                 | Permanent                    | Store **M PP** into a valuable item for later use (must spend **M PP** as well); make refillable by spending **1 IP**.
+|   25-26   | Create Charm                 | Permanent                    | Store **M Tephra** into a valuable item for later use (must spend **M Tephra** as well); make refillable by spending **1 IP**.
 |   27-28   | Create Ephemer               | Permanent                    | Combine with another dweomer to store into a single one-use item which can, with a crafting test, be released later.
 |   29-30   | Create Matrix                | Permanent                    | Create an item which contains a M dweomers and allows the wielder to apply and manipulate them using your Crafting skill bonus; Make reusable by spending **M IP**.
 |   31-32   | Demoralize / Galvanize       | Resist, Concentration        | Sew doubt and uncertainty or confidence and aggression into targets, making all combat tests one step harder/easier.

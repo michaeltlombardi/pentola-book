@@ -115,9 +115,9 @@ G> If Taryn wanted to instead increase their wealth from Average to Wealthy, the
 
 ## Encumbrance
 
-A character can carry a number of items equal to their max HP with no issues.
+A character can carry a number of items equal to their max Blood with no issues.
 Carrying over this amount means they are encumbered and all tests are one step harder - they can also only ever move to somewhere nearby in a moment.
-They simply cannot carry more than double their max HP.
+They simply cannot carry more than double their max Blood.
 
 Note that some items can increase your encumbrance maximum by making carrying items easier.
 

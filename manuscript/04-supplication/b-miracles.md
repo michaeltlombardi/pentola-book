@@ -19,7 +19,7 @@ The exact effects are up to the referee and player to decide but will automatica
 
 Performing a miracle is automatically successful.
 No dice need be rolled, no chance of a botch or critical either.
-Miracles do not cost any PP and always take only a single action to perform.
+Miracles do not cost any Tephra and always take only a single action to perform.
 
 A character can dismiss any miracle they have performed as a single action.
 Ceasing to perform a concentration miracle is immediate and does not require an action.
@@ -83,12 +83,12 @@ The character need not spend any improvement points to regain their miracles.
 |:------------------:|:--------------------------------------------------------------:|:------------|
 | Abjure             | Area (Nearby), Duration (M hours), Progressive, Resist         | Surround a spherical area with a shimmering globe which deflects missiles of any size harmlessly and which any hostile creature must overcome. Any incoming effect with a magnitude lower than this miracle fails to pierce it.
 | Age                | Permanent, Progressive, Resist, Touch                          | The target ages by one decade per magnitude of this miracle.
-| Banish             | Duration (M days), Progressive, Resist                         | The target must move out of sight of the supplicant and cannot willingly approach them for the duration; every moment in which the target is in the presence of the supplicant they lose 1HP and 1PP as the curse eats away at them.
+| Banish             | Duration (M days), Progressive, Resist                         | The target must move out of sight of the supplicant and cannot willingly approach them for the duration; every moment in which the target is in the presence of the supplicant they lose 1 Blood and 1 Tephra as the curse eats away at them.
 | Bind               | Concentration, Resist, Magnitude 3                             | The target is held perfectly still for the duration and can move only as much as the supplicant wills, if at all.
 | Burden             | Duration (1 day), Resist, Magnitude 2                          | The target is crushed under the weight of this miracle as though carrying the heaviest load they are capable of.
 | Command            | Permanent, Progressive, Resist                                 | The target is compelled to carry out the letter of a given command to the best of their ability - they are free to interpret it in their own interests. For each point of magnitude the command may contain one additional word.
 | Compel Truth       | Concentration, Magnitude 3, Resist                             | The target cannot knowingly speak any falsehoods for the duration and must give as much and complete an accounting as they are capable of.
-| Conflagrate        | Progressive, Area (Nearby), Ranged (Far), Dodge, Concentration | An area within range ignites with a flame wrought of pure power, consuming 1d4HP and PP each moment while it burns.
+| Conflagrate        | Progressive, Area (Nearby), Ranged (Far), Dodge, Concentration | An area within range ignites with a flame wrought of pure power, consuming 1d4 Blood and Tephra each moment while it burns.
 | Control Weather    | Magnitude 5, Area (Far)                                        | The supplicant is able to control the weather for as far as they can see, summoning or dismissing storms, wind, and clouds.
 | Deny               | Progressive, Instant                                           | The supplicant can use this miracle in response to any other being channelled to disrupt it - if successful, the targeted supplicant counts as having channeled the miracle for all purposes but no effects manifest.
 | Dismiss Magic      | Progressive, Instant                                           | The supplicant can use this miracle to end the effects of any and all other magics on a target which have a lower magnitude.
@@ -97,7 +97,7 @@ The character need not spend any improvement points to regain their miracles.
 | Drown              | Concentration, Resist, Magnitude 3                             | For the duration of this miracle the target drowns on dry land, their lungs filling with liquid no matter how hard they try to breathe.
 | Endless Hunger     | Permanent, Resist, Magnitude 2                                 | No matter what the target eats, they will forever suffer from hunger pains as though their last meal was before this miracle took effect.
 | Excommunicate      | Permanent, Resist                                              | When channeled upon a member of the same organization this miracle cuts them off entirely from their miracles and knacks until they get another grantor to apply the ritual of supplication to them again.
-| Exsanguinate       | Duration (1 minute), Touch, Resist, Magnitude 5                | For one minute after this miracle is channeled the target bleeds profusely from every orifice and sweats blood, losing 1d4 HP / moment.
+| Exsanguinate       | Duration (1 minute), Touch, Resist, Magnitude 5                | For one minute after this miracle is channeled the target bleeds profusely from every orifice and sweats blood, losing 1d4 Blood / moment.
 | Glassheart         | Duration (M hours), Progressive, Resist                         | For the duration the target is particularly prone to fear and frayed nerves, breaking under the slightest pressure. All opposed tests are one step harder for the duration.
 | Gravetouch         | Permanent, Magnitude 5, Resist                                 | Death comes for the target once this miracle has been channeled upon them; they take double damage from all sources and find all combat tests one step harder.
 | Hear Truth         | Concentration                                                  | For the duration the supplicant will know whether anyone speaking is telling the truth or being intentionally misleading.

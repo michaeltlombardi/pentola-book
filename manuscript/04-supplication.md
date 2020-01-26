@@ -44,7 +44,7 @@ A character who is a supplicant, principal, or champion can call upon their gran
 They may even do so if dead or unconscious, as long as it is called for in the instant that consciousness fades or death occurs.
 
 When intervention is requested, roll 1D100.
-If this roll is equal to or less than the character's max PP, the call for aid is answered.
+If this roll is equal to or less than the character's max Tephra, the call for aid is answered.
 However, grantors demand a heavy price for their help and the character will suffer a permanent loss from their relationship bonus equal to the roll, if they are successful.
 
 Intervention can take many forms and the following can be considered guidelines:
