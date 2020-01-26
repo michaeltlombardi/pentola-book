@@ -68,7 +68,7 @@ G>
 G> Alessia could choose to apply a dweomer with a magnitude of 4 (4 complexity), a Duration of 4 hours (6 complexity), and a range of one furlong (4 complexity) for a total of 14 complexity.
 G>
 G> If she chooses to apply it as an action she can handle a complexity of up to 3 on each of the dweom'ers effects - up to a total complexity of 12, no single effect with a rating higher than 3.
-G> If she botches the test for application, she'll take damage equal to the complexity she attempted; that damage can only be mitigated by permanently burning one power point per hit point spared.
+G> If she botches the test for application, she'll take damage equal to the complexity she attempted; that damage can only be mitigated by permanently burning one Tephra per Blood spared.
 
 | Complexity  | Magnitude |  Duration  |    Range    |        Volume       |
 |:-----------:|:---------:|:----------:|:-----------:|:-------------------:|
@@ -141,7 +141,7 @@ In general, tests to apply a dweomer as an action are one step harder if in mele
 
 Failing the test indicates that the crafter was unable to correctly adjudicate the energy and manipulations correctly and has caused a _misapplication_ - see the table below.
 Botching the test causes the crafter to take damage equal to the complexity of the dweomer in a special misapplication known as _Tephratic Feedback_.
-This damage cannot be reduced by AP, but a crafter can divert some of this damage by permanently reducing their power point total by one for each hit point they choose not to lose.
+This damage cannot be reduced by AP, but a crafter can divert some of this damage by permanently reducing their Tephra total by one for each point of Blood they choose not to lose.
 The power points can be sourced from a charm, but it cannot be refilled if used in this way.
 
 | 1D8 | Misapplication Effect |
@@ -150,7 +150,7 @@ The power points can be sourced from a charm, but it cannot be refilled if used 
 |  2  | **Burn:** The dweomer burns through the crafter, the magical energy misdirect. Take 1D4 damage.
 |  3  | **Explosion:** The energy of the dweomer goes off catastrophically, causing an explosion whose diameter is equal to the range of the dweomer. The explosion inflicts damage equal to half the total complexity to everyone in the sphere.
 |  4  | **Blind:** the dweomer's energy radiates as a brilliant light centered on the crafter, blinding them and anyone who looks at them in the next moment.
-|  5  | **Overpower:** The dweomer is applied but with more power than intended; double the magnitude of the dweomer but pay the additional complexity from the crafter's PP, dealing damage equal to the amount they cannot pay, if any.
+|  5  | **Overpower:** The dweomer is applied but with more power than intended; double the magnitude of the dweomer but pay the additional complexity from the crafter's Tephra, dealing damage equal to the amount they cannot pay, if any.
 |  6  | **Memory Loss:** Applying the dweomer without the appropriate safeguards caused the magic to burn the crafter's mind, making them lose some of what they've learned about the craft, though it does still take effect. Reduce the character's crafting skill bonus by a number of points equal to the magnitude of the dweomer.
 |  7  | **Weak:** The dweomer is successfully applied, but without any of the intended manipulations.
 |  8  | **Delayed:** The crafter fails to apply the dweomer in _this_ moment but may still apply it in the _next_ one automatically and without an additional test.

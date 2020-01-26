@@ -31,7 +31,7 @@ The potency of any effects caused by a mishap is equal to the intended magnitude
 | Roll 2d10 | Alchemical Mishap |
 |:---------:|:------------------|
 |     02    | **Perfection:** The experiment goes unpredictably perfect, the delay is the minimum for the form and the duration and batch size the maximum, but no matter how hard the alchemist tries, the formula can not be repeated.
-|     03    | **Overpowered:** This batch of the formula is more powerful intended with double the magnitude. However, it makes up for this extra magnitude with PP from whoever uses the batch as the included ingredients cannot supply it.
+|     03    | **Overpowered:** This batch of the formula is more powerful intended with double the magnitude. However, it makes up for this extra magnitude with Tephra from whoever uses the batch as the included ingredients cannot supply it.
 |     04    | **Euphoria:** The formula is made correctly, but to take any of it will induce a state of extreme euphoria for the duration in addition to any other effects.
 |     05    | **Blood Bubbling:** The batch causes the blood to turn partially to gas in the body of anyone who takes it, inducing terrible pain and halving their body score for the duration.
 |     06    | **Vanishing:** The batch hardens and then crumbles into infinitely small grains, dispersing at the slightest motion.
@@ -39,16 +39,16 @@ The potency of any effects caused by a mishap is equal to the intended magnitude
 |     08    | **Fulmination:** The experiment literally blows up as the magic energies mix with too much volatility, inflicting M damage on those who are nearby.
 |     09    | **Burning:** The formula burns uncontrollably, igniting a hot conflagration that consumes the ingredients and possibly nearby equipment.
 |     10    | **Sickening:** The formula is a failure, noxious gases escaping and causing everyone nearby to vomit uncontrollably for 1d6 moments.
-|     11    | **Slippage:** The formula is a failure and drains the alchemist of 1d4 PP as the magical energies fluctuate dangerously.
+|     11    | **Slippage:** The formula is a failure and drains the alchemist of 1d4 Tephra as the magical energies fluctuate dangerously.
 |     12    | **Underpowered:** The formula is "successful" but only at magnitude 1.
 |     13    | **Disorienting:** The formula is "successful" but includes a side effect which makes all Flax tests hard for the duration.
-|     14    | **Spillage:** The batch expands beyond its containers, spilling onto everything near by and causing chemical burns (1d6 HP) to everything it touches.
+|     14    | **Spillage:** The batch expands beyond its containers, spilling onto everything near by and causing chemical burns (1d6 Blood) to everything it touches.
 |     15    | **Shattering:** The batch petrifies everything close, shattering into dangerous shards in 1d4 moments.
 |     16    | **Freezing:** The batch sucks all of the heat from the area nearby, freezing everything solid in 1d6 moments.
 |     17    | **Maddening:** The fumes from this batch rapidly expand to fill the room, inducing a random madness in those who breath it in.
 |     18    | **Puddling:** The noxious particles from this failed batch destabilize any solids they come in contact with, causing them to liquify.
 |     19    | **Necrotizing:** This batch bubbles over and expands violently, seeking out living flesh nearby and causing it to begin to rot immediately.
-|     20    | **Tephratic Inversion:** The experiment goes horribly awry as magic itself burns out, drawing all nearby magic and energy into it at a rate of 2d4 PP / moment. When the PP is drained from nearby living creatures it instead drains HP until death or escape. This terrible mishap will drain the magic from creatures and items alike, destroying them.
+|     20    | **Tephratic Inversion:** The experiment goes horribly awry as magic itself burns out, drawing all nearby magic and energy into it at a rate of 2d4 Tephra / moment. When the Tephra is drained from nearby living creatures it instead drains Blood until death or escape. This terrible mishap will drain the magic from creatures and items alike, destroying them.
 
 ## Producing Alchemical Items
 

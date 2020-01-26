@@ -30,8 +30,8 @@ A character may also forego an action or reaction to focus on just the one thing
 
 ## Injury and Recovery
 
-When a character takes damage that their armor points can't soak, they lose hit points.
-When a character reaches 0 hit points they are dead.
+When a character takes damage that their armor points can't soak, they lose Blood.
+When a character reaches 0 Blood, all additional damage inflicts major wounds.
 
 <!-- TODO: Add an option for not-dying at 0 and one less brutal? -->
 
@@ -62,10 +62,10 @@ If the result on the table is something that could be on either side of the body
 ### Medical attention
 
 Anyone can try to provide medical attention to an injured character by making a hard Flax test for each wound sustained.
-For each success, they heal 1d3 HP up to the injured character's maximum HP.
+For each success, the injured character recover1 1d3 Blood, up to their maximum Blood.
 
-If the test is a failure, no HP are restored and the character may not try to heal that wound again until they improve a medical skill or vocation.
+If the test is a failure, no Blood is restored and the character may not try to heal that wound again until they improve a medical skill or vocation.
 
 ### Natural Healing
 
-For every week of relative rest a character regains 1HP.
+For every week of relative rest a character regains 1 Blood.

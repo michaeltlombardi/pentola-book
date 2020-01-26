@@ -14,8 +14,8 @@ If the combination doesn't make sense, roll again or pick an appropriate option 
 Some knacks may be predetermined and provided by the referee as resulting from a particular organization, skill, or vocation.
 
 Knacks gained after character creation always start at magnitude 1.
-The maximum magnitude of any knack is limited by a character's max PP.
-For example, a character with a PP of 6 could not have any knacks whose magnitude was 7 or higher.
+The maximum magnitude of any knack is limited by a character's max Tephra.
+For example, a character with a Tephra of 6 could not have any knacks whose magnitude was 7 or higher.
 Note that this limits the maximum magnitude of any given knack, not the total magnitude of knacks a character can acquire.
 
 | Roll d8 |                               Description                                |
@@ -112,20 +112,20 @@ G> The effected targets also test Iron and add their highest relevant bonus, if 
 A character does not need to make any tests to exercise a knack because the ability is an extension of who they are (though an opposed test may need to be made to effect the target as normal).
 It uses some metaphysical energy that they experience as a growing sense of hunger and ache in their bones, but does not otherwise tire them.
 
-If a character has no power points to spend on exercising a knack they may instead make a Power test and spend HP equal to the magnitude of the knack they are attempting to exercise.
-Note that the HP is lost _whether or not_ they succeed on the test as they burn some of their life force to power the attempt.
+If a character has no power points to spend on exercising a knack they may instead make a Power test and spend Blood equal to the magnitude of the knack they are attempting to exercise.
+Note that the Blood is lost _whether or not_ they succeed on the test as they burn some of their life force to power the attempt.
 Failure indicates that they simply couldn't control it.
 
 {icon=dice-d20}
-G> #### Example: Exercising a Knack with 0 PP
+G> #### Example: Exercising a Knack with 0 Tephra
 G> Taryn chooses to exercise their "Polished Scent of Sealing Harmony" knack in response to escalating tensions between two factions in a last ditch attempt to prevent violence from breaking out.
-G> They have the knack at a magnitude 5 and choose to exercise it as such, but have no PP left.
+G> They have the knack at a magnitude 5 and choose to exercise it as such, but have no Tephra left.
 G>
-G> Taryn taps into their life force, making a Iron test and succeeding; their current HP decreases by 5.
+G> Taryn taps into their life force, making a Iron test and succeeding; their current Blood decreases by 5.
 G> They then make an opposed test against everyone nearby, testing their Iron with a +50% bonus from the knack's magnitude.
 G> The effected targets also test Iron and add the highest relevant bonus, if any.
 G>
-G> **Note:** If Taryn had failed their Iron test to exercise the knack they would _still_ have had their current HP decrease by 5.
+G> **Note:** If Taryn had failed their Iron test to exercise the knack they would _still_ have had their current Blood decrease by 5.
 
 ## Improving Knacks
 
