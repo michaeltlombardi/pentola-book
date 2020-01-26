@@ -37,7 +37,7 @@ When a character reaches 0 Blood, all additional damage inflicts major wounds.
 
 ### Major Wounds
 
-If a character loses at least half their _current_ hitpoints from a single instantaneous source they suffer a major wound per the table below.
+If a character loses at least half their _current_ Blood from a single instantaneous source they suffer a major wound per the table below.
 Some results on the table includes a value for a dice roll in parentheses, like `(d6)`.
 After a character suffers a major wound they make a death test by rolling that die and adding any listed bonus; if the result is greater than or equal to the size of the die, the character dies from their wound.
 Otherwise, they'll survive, provided they get competent medical attention quickly.
