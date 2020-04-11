@@ -25,7 +25,6 @@ G>
 G> Chris says that he wants to convince the guard that he is actually here to _clean_ the spire's walls.
 G>
 G> At this point, Chris has declared Porkslope's intent.
-{{% /example %}}
 
 {pagebreak}
 

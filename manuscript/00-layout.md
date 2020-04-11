@@ -13,7 +13,7 @@ G> Example text will be here.
 
 {pagebreak}
 
-### Rules Test Asides
+### Rules Text Asides
 
 It will sometimes be necessary to make a note to the reader about the rules text to provide context or let them know where else to look in the book.
 These notes will always be rendered like this:
